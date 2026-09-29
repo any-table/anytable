@@ -16,6 +16,6 @@ This page is the whole document in the shortest form that still works. It is wha
 
 **Where.** Any table is the table. Any building is the building. Nothing is sacred about a place; everything is sacred about what is done there.
 
-**The dissolution clause.** If this ever produces cruelty, certainty, fear, wealth for its leaders, or obedience to any person, it has failed. End it and begin again.
+**The dissolution clause.** If this ever produces cruelty, coercive certainty, fear, wealth or status for its leaders, obedience to any person, concealment of serious harm, or retaliation against those who speak, it has failed. End it and begin again.
 
-The full text is in FOUNDATIONAL.md and at anytable.org. This card is public domain (CC0), like everything else here.
+The full text is in `FOUNDATIONAL.md` and at anytable.org. The original prose of this card is dedicated to the public domain under CC0; see `NOTICE.md` for license scope.

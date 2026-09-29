@@ -1,8 +1,8 @@
 # Reading list
 
-Every source the foundational document draws on, grouped by tradition, with what is cited from it and where to read it. Where a free, public-domain text exists it is listed first, because a document that costs nothing should not require a shelf that costs a fortune. Modern editions are suggestions, not requirements.
+Sources and further reading behind the foundational document, grouped by tradition, with notes on what the text draws from and where to read more. Where a useful free edition exists it is listed first, because a document that costs nothing should not require an expensive shelf. Modern editions are suggestions, not requirements.
 
-The document reads all of these as ancestors: with gratitude, without obedience. Read what challenges you.
+The document reads these sources as ancestors and witnesses: with gratitude, without obedience. A citation identifies a source; it does not make the source an authority, and repeated ideas across traditions are not treated as proof. English wording varies by translation, so readers should check the cited work and passage rather than treating one rendering as uniquely canonical.
 
 ## Start here
 
@@ -44,7 +44,7 @@ If you read only six things, read these. Together they cover most of what the do
   Free: Edwin Arnold's *The Song Celestial* (1885) at Project Gutenberg. Modern: Eknath Easwaran; Laurie Patton (Penguin Classics); Winthrop Sargeant for a word-by-word edition.
 - **Mahabharata**, Anushasana Parva, section 113 (do nothing to another that you would regard as injurious to yourself).
   Free: Kisari Mohan Ganguli's complete translation (1883-1896) at sacred-texts.com; the cited passage is in Anushasana Parva CXIII.
-- **Yoga Sutras of Patanjali** (dhyana, cited in the deeper sitting).
+- **Yoga Sutras of Patanjali** (dhyana). These are useful comparative reading for concentrated contemplative states, although the optional deeper-sitting appendix no longer presents them as a direct source for its method.
   Modern: Edwin Bryant's translation with commentary (North Point Press).
 
 ## Buddhist texts
@@ -97,10 +97,9 @@ If you read only six things, read these. Together they cover most of what the do
 
 ## Indigenous traditions
 
-- The **Haudenosaunee** Great Law of Peace (weighing decisions by the seventh generation). The phrase as commonly quoted is a modern rendering; the underlying principle is in the Gayanashagowa.
-  Free: several English renderings are online; the Haudenosaunee Confederacy's own site (haudenosauneeconfederacy.com) is the place to start.
-- The **Native American Church** and the peyote road.
-  Read: Omer Stewart, *Peyote Religion: A History* (University of Oklahoma Press).
+- The **Haudenosaunee** Great Law of Peace and later seventh-generation formulations are relevant to the stewardship discussion. The familiar modern wording should not be treated as a verbatim ancient quotation without a source.
+  Readers should prefer Haudenosaunee sources and clearly identified editions when tracing the principle.
+- For historical context on religious peyote use, see Omer Stewart, *Peyote Religion: A History* (University of Oklahoma Press). Appendix B mentions long-standing psychoactive sacramental traditions only as context; it does not make their practices part of the table's required practice.
 
 ## Greek and Roman philosophy
 
@@ -137,7 +136,7 @@ If you read only six things, read these. Together they cover most of what the do
 
 - **William James**, *The Varieties of Religious Experience* (1902). By their fruits, not their roots, is in Lecture I; the authority of mystical states is in Lectures XVI and XVII.
   Free: Project Gutenberg.
-- **Robert Monroe**, *Journeys Out of the Body* (1971), *Far Journeys* (1985), *Ultimate Journey* (1994), all Doubleday. The preparatory sequence, Focus 10 and 12, and the affirmation are drawn from these and from the Monroe Institute's Gateway program.
+- **Robert Monroe**, *Journeys Out of the Body* (1971), *Far Journeys* (1985), *Ultimate Journey* (1994), all Doubleday. Appendix A adapts elements associated with Monroe's preparatory exercises, including the box, resonant tuning, the working affirmation, and the Focus 10/12 terminology. The appendix deliberately leaves the metaphysical interpretation of those experiences open and is not required doctrine.
 - **Carl Jung**, *Memories, Dreams, Reflections* (Vintage) for active imagination and its dangers. The letter to Bill Wilson (30 January 1961) is reprinted in the AA *Grapevine* (January 1963) and in AA's *Pass It On*.
 - **Carl Rogers**, *On Becoming a Person* (Houghton Mifflin), for unconditional positive regard and being heard without judgment.
 - **Ramana Maharshi**, *Nan Yar* (Who Am I?), the short text on self-inquiry.
@@ -145,12 +144,8 @@ If you read only six things, read these. Together they cover most of what the do
 - **Jiddu Krishnamurti**, the speech dissolving the Order of the Star, Ommen, 3 August 1929 (truth is a pathless land).
   Free: the full text is at jkrishnamurti.org.
 
-## Referenced organizations
-
-Not reading, but the document points to them and a reader may want to know what they are.
-
-- **DanceSafe** (dancesafe.org), **PsychonautWiki** (psychonautwiki.org), and the **Fireside Project** (firesideproject.org), cited in the section on the opened door as the right sources for harm-reduction guidance.
-
 ## A note on verification
 
-Three citations in the document are flagged as needing a check before anyone quotes them with a reference attached: the Udanavarga verse number, the Rumi book and line, and the Haudenosaunee wording. Everything else was checked against the source or a standard translation. If you find an error, open a pull request.
+References are provided so readers can check the document's claims against their sources. English wording varies by edition and translation, and some traditional sayings circulate in forms whose precise textual history is uncertain. Where the foundational document uses a paraphrase rather than a stable quotation, this list aims to identify the underlying source or tradition rather than manufacture false precision.
+
+Particular care is warranted with widely circulated attributions such as the Udanavarga parallel, the Rumi line, and modern renderings of the Haudenosaunee seventh-generation principle. Corrections, stronger primary-source references, and better translation notes are welcome by pull request. No entry in this file should be read as a claim that every wording has a single uncontested English form.

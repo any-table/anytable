@@ -1,18 +1,18 @@
-# Foundational Document (0.1.0)
+# Foundational Document (0.2.0)
 
 ## Preface
 
-This is the founding text of a belief system that claims no revelation, owns no buildings, takes no money, and belongs to no one.
+This is the founding text of a belief system that claims no revelation, owns no buildings, takes no collection, and belongs to no one.
 
-It is a scaffold for understanding the universe, the human experience, how to live a life of meaning, and how to build a relationship with what lies beyond the visible. Stand on it, add to it, and take it down where it fails.
+It is a scaffold for understanding the universe, the human experience, how to live a life of meaning, and how to approach what may lie beyond the visible. Stand on it, add to it, and take it down where it fails.
 
-**License.** This text is dedicated to the public domain (CC0). Copy it, translate it, change it, fork it. No attribution is required and none may be demanded. No one may charge for it.
+**License.** The original prose of this text is dedicated to the public domain under CC0. Copy it, translate it, change it, fork it, publish it, or sell copies of it. No attribution is required and none may be demanded. The project itself will never charge for access to the current text. Short quotations, translations, titles, and other third-party material remain subject to whatever rights apply to their sources; the CC0 dedication does not claim rights the project does not own.
 
-**Version.** 0.1.0, 28 September 2026. Versions are numbered major.minor.patch. This stays at 0.x until at least one table has kept the weekly gathering for a full year without a founder present; that is what 1.0 means. Every revision is made in the open with its history preserved. Nothing here is exempt from change except the dissolution clause, which may be strengthened but never weakened.
+**Version.** 0.2.0, 29 September 2026. Versions are numbered major.minor.patch. This stays at 0.x until at least one table has kept the weekly gathering for a full year without a founder present; that is what 1.0 means. Every revision is made in the open with its history preserved. Nothing here is exempt from change except the dissolution clause, which may be strengthened but never weakened.
 
 **Where it lives.** The current text is at anytable.org, and its source and full revision history are in the any-table organization on GitHub. The domain and the organization are the only things the project holds that anyone could own; how they are held is set out under Governance.
 
-**How to read it.** Each tenet is stated plainly and followed by words from the prophets and teachers of the older traditions. Those words are offered as testimony rather than authority. They show that people in every century and on every continent arrived at the same ground, and that most of what follows was gathered rather than invented.
+**How to read it.** Each tenet is stated plainly and followed, where useful, by words or examples from older traditions and later teachers. They are testimony, language, and warning, not authority. Similar ideas appearing across cultures and centuries are worth noticing, but repetition is not proof. References identify the source more reliably than any single English wording; translations differ, and paraphrases are labeled as such.
 
 ## The card
 
@@ -32,104 +32,122 @@ This page is the whole document in the shortest form that still works. It is wha
 
 **Where.** Any table is the table. Any building is the building. Nothing is sacred about a place; everything is sacred about what is done there.
 
-**The dissolution clause.** If this ever produces cruelty, certainty, fear, wealth for its leaders, or obedience to any person, it has failed. End it and begin again.
+**The dissolution clause.** If this ever produces cruelty, coercive certainty, fear, wealth or status for its leaders, obedience to any person, concealment of serious harm, or retaliation against those who speak, it has failed. End it and begin again.
 
 ## Purpose
 
 This belief system exists to do four things.
 
 1. Give an honest account of what can be known about the universe and what cannot.
-2. Give an honest account of the human experience: what we are, what we need, and what we are for.
+2. Give an honest account of the human experience: what we are, what we need, and what we might be for.
 3. Describe a life of meaning specifically enough that a person can begin living it today.
-4. Open a relationship between each person and what is ultimate, without an intermediary.
+4. Leave open a direct relationship between each person and what is ultimate, if there is such a relationship, without requiring an intermediary.
 
-It is freely available, accessible to anyone, and can be practiced anywhere with no equipment, no building, no permission, and no cost. It is never to be used to control people, advance an agenda, or gather wealth. Wherever it is found doing those things, it has stopped being this.
+It is freely available, accessible to anyone, and can be practiced anywhere with no equipment, no building, no permission, and no cost. It is never to be used to control people, advance an outside agenda, or gather wealth, status, or obedience. Wherever it is found doing those things, it has stopped being this.
 
 ## On sources
 
-The prophets, sages, and scriptures of the older traditions are our ancestors, and we read them the way one reads ancestors: with gratitude and without obedience.
+The prophets, sages, scriptures, philosophers, witnesses, and teachers of older traditions are our ancestors, and we read them the way one reads ancestors: with gratitude and without obedience.
 
-We use their words in three ways. As testimony, because when a Hebrew prophet, an Arabian merchant, an Indian prince, and a Chinese archivist who never met each other all say the same thing, that agreement is evidence. As language, because they said it better than we will. As warning, because every one of their traditions was later bent toward power, and their own words condemn what was done in their names.
+We use their words in three ways. As testimony, because independent traditions sometimes converge on the same human problems and practices, and that convergence is worth attention. As language, because they often said things better than we will. As warning, because religious and philosophical institutions have repeatedly been bent toward power, and their own founding words often contain the tools needed to criticize that corruption.
 
-We do not use their words as proof. Nothing is true because a scripture says it. Where their claims can be tested and fail, we set them aside. Where their claims cannot be tested, we hold them open. Where their claims have been lived by millions and found good, we take that seriously.
+We do not use their words as proof. Nothing is true because a scripture, teacher, founder, scientist, or this document says it. Where a claim can be tested, evidence outranks preference and tradition. Where a claim cannot presently be tested, we say so. Where a practice has been lived by many people across long periods and appears to help, we take that seriously without turning usefulness into metaphysical proof.
 
-Among the ancestors we also count modern teachers and others who founded no religion. Viktor Frankl was a psychiatrist who lost his family in the camps and came out with a theory of meaning he had tested on himself. Robert Monroe was a broadcasting executive who spent nearly forty years mapping states of consciousness and left behind a set of methods anyone can use. Beside them stand:
+Among the ancestors we also count modern teachers and others who founded no religion. Viktor Frankl developed a psychology of meaning out of both clinical work and his experience as a concentration-camp prisoner. Robert Monroe explored unusual states of consciousness and left reproducible contemplative methods, while the interpretation of those states remains open. Beside them stand:
 
-- Kabir, the fifteenth-century weaver who mocked temple and mosque alike and was claimed by Hindus and Muslims both when he died.
-- George Fox and the Quakers, whose silent meeting is the nearest living relative of our gathering.
-- William James, who showed how to weigh a spiritual experience without either swallowing it or dismissing it.
-- Simone Weil, who made attention a form of love and refused, on principle, to join the church she loved.
-- Epictetus, who drew the line between what is ours to control and what is not.
-- Ramana Maharshi, who reduced the whole inquiry to a single question.
-- Thich Nhat Hanh, who put the practice into washing the dishes.
-- Carl Jung, who mapped the inner country and warned about its weather.
-- Aristotle, who explained why practice comes before belief: a person becomes just by doing just acts.
-- Epicurus, misremembered as a hedonist, who taught friendship, enough, and the end of the fear of death.
-- Dogen, who brought Soto Zen to Japan and taught that practice is not the road to awakening but awakening itself.
-- Martin Buber, who found the sacred in the space between two people who meet without using each other.
-- Abraham Joshua Heschel, who called the Sabbath a palace in time and marched at Selma because, he said, his legs were praying.
-- Etty Hillesum, who wrote in a transit camp on the way to Auschwitz that life was still beautiful, and would not hate.
-- Aleksandr Solzhenitsyn, who learned in the camps that the line between good and evil runs through every heart.
-- Albert Camus, who showed what decency looks like with no God and no guarantee.
-- Desmond Tutu, who ran forgiveness as a public process for an entire country.
-- Jiddu Krishnamurti, who dissolved the organization built around him and refused to be anyone's guru.
-- Carl Rogers, who found that being heard without judgment is itself what heals.
+- Kabir, the fifteenth-century poet who mocked religious boundary-making and was claimed by Hindu and Muslim communities alike.
+- George Fox and the Quakers, whose silent meeting is one close living relative of our gathering.
+- William James, who argued that spiritual experiences should be judged neither by automatic belief nor automatic dismissal, but by their character and consequences.
+- Simone Weil, who made attention a form of love and resisted institutional belonging even where she felt deep religious affinity.
+- Epictetus, who drew the line between what is ours to govern and what is not.
+- Ramana Maharshi, who reduced much of the inward inquiry to a single question.
+- Thich Nhat Hanh, who put practice into ordinary acts such as washing dishes.
+- Carl Jung, who mapped inner experience while warning against treating it casually or literally.
+- Aristotle, who explained why practice comes before character: we become just by doing just acts.
+- Epicurus, often caricatured as a hedonist, who taught friendship, sufficiency, and freedom from the fear of death.
+- Dogen, who taught that practice is not merely a road to awakening but an expression of it.
+- Martin Buber, who found the sacred in the meeting between persons who refuse to reduce each other to objects.
+- Abraham Joshua Heschel, who described Sabbath as a sanctuary in time and joined religious contemplation to public moral action.
+- Etty Hillesum, who wrote from Westerbork of meaning, beauty, responsibility, and a refusal to hate.
+- Aleksandr Solzhenitsyn, who wrote that the line dividing good and evil passes through every human heart.
+- Albert Camus, who described decency without requiring cosmic guarantee.
+- Desmond Tutu, who helped make truth-telling, accountability, and forgiveness part of a public process.
+- Jiddu Krishnamurti, who dissolved the organization built around him and refused the role of guru.
+- Carl Rogers, who showed how deeply a person can change when heard without judgment or manipulation.
 
 We read all of them as we read the prophets: with gratitude, without obedience, and with an open hand on their conclusions.
 
-The Buddha compared his teaching to a raft, built to cross a river and left behind on the far bank (Majjhima Nikaya 22). We treat every teaching in this document, including our own, the same way.
+The Buddha compared a teaching to a raft used for crossing and not carried forever afterward (Majjhima Nikaya 22). We treat every teaching in this document, including our own, the same way.
+
+### A note on quotations
+
+Sacred and philosophical texts often exist in many editions and translations. In this document, quotation marks indicate a representative English rendering when the wording is stable enough to be useful; otherwise the idea is paraphrased and the source is named. A reference is not a claim that one English translation is uniquely authoritative. Modern copyrighted translations and passages remain the property of their rights holders and are not covered by this document's CC0 dedication.
+
+## How claims are held
+
+Not every sentence in a spiritual or philosophical text deserves the same kind of confidence. This document therefore uses four categories.
+
+**What we know.** Claims supported by ordinary experience, careful observation, strong evidence, or facts that can be checked. These remain revisable if better evidence appears.
+
+**What we infer.** Interpretations that fit what is known but go beyond it. An inference may be reasonable without being certain.
+
+**What we choose to live as though true.** Moral and practical commitments that cannot be proved in the same way as a physical measurement but that give a life direction. Their test is what they produce in people and communities.
+
+**What we leave open.** Questions for which we do not have enough grounds to close the answer. No one gains standing here by pretending otherwise.
+
+A claim may move from one category to another as evidence changes. No scripture, teacher, tradition, founder, majority, or version of this document is exempt from that movement.
 
 ## What we hold about reality
 
-Reality is one. Behind the many things there is one ground from which they come. The traditions call it God, Brahman, the Tao, the Unconditioned, Ahura Mazda, Waheguru. We do not insist on a name.
+**What we know.** There is a reality that does not answer to our preference. The observable universe exhibits regularities stable enough to investigate by reason, measurement, experiment, and attention. Where careful observation and inherited teaching conflict about a testable claim, observation gets the final word.
 
-Reality is ordered. The universe runs on law. That law can be discovered by reason, observation, and attention, and no scripture outranks what careful observation shows.
+Everything we directly observe is changing. Bodies, stars, institutions, languages, and lives arise, alter, and pass. Impermanence is not a doctrine imposed on the world; it is visible everywhere we know how to look.
 
-The order is moral, or we live as if it were. Within a single life, cruelty often comes out even or ahead, and honesty is often punished; no tradition claims otherwise, which is why they reached for karma and judgment to balance the books beyond one lifetime. We do not know the mechanism and do not pretend to. We hold to the direction: that what a person does matters, that it is not erased, and that the only life worth living is one lived as though this were so.
+**What we infer.** Many traditions have understood the apparent plurality of things as resting in a deeper unity. They have called that unity God, Brahman, the Tao, the Unconditioned, Ahura Mazda, Waheguru, and by other names. We take the recurrence of that intuition seriously without treating recurrence as proof.
 
-The material world is neither the whole of reality nor permanent. What can be seen depends on what cannot, and everything seen is passing.
+**What we choose to live as though true.** What a person does matters. Cruelty and honesty do not always receive their due within a single lifetime, and we do not know whether any larger mechanism balances the books. We nevertheless live as though actions have moral weight, persons are not disposable, and goodness is worth doing even when it loses.
 
-Whether there is a mind or a purpose behind all of this, we do not know. We treat that as an open question to live inside. We claim no revelation and expect none. A person who prays and a person who cannot are both at home here.
+**What we leave open.** We do not know whether material reality is all that exists, whether consciousness can exist apart from a living brain, whether the universe has a mind or purpose, whether prayer reaches anything beyond the person praying, or what, if anything, follows death. People may explore those questions here without being required to close them. A person who prays and a person who cannot are both at home.
 
 From the ancestors:
 
 - "Hear, O Israel: the Lord our God, the Lord is one." (Deuteronomy 6:4)
-- "Truth is one; the wise call it by many names." (Rig Veda 1.164.46)
-- "There is no god but God." (the shahada, Quran 47:19)
-- Ik Onkar, one Creator: the opening word of the Guru Granth Sahib.
-- "The Tao that can be spoken is not the eternal Tao." (Tao Te Ching 1)
-- Neti, neti: not this, not this. The Upanishads on what the ultimate is not. (Brihadaranyaka Upanishad 4.5.15)
-- "All conditioned things are impermanent." (Dhammapada 277)
-- "Everything on earth is passing away; only the face of your Lord remains." (Quran 55:26-27)
-- "The heavens declare the glory of God." (Psalm 19:1)
-- "Whatever a person sows, that they will also reap." (Galatians 6:7)
-- "Where were you when I laid the foundations of the earth?" (Job 38:4)
-- "I am more than my physical body." (Robert Monroe, the line that opens every one of his exercises)
+- Rig Veda 1.164.46 speaks of one reality named in many ways by the wise.
+- The shahada affirms that there is no deity but God; compare Quran 47:19.
+- Ik Onkar, the opening of the Guru Granth Sahib, affirms one ultimate reality or Creator.
+- "The Tao that can be spoken is not the eternal Tao." (Tao Te Ching 1; wording varies by translation)
+- Neti, neti: "not this, not this," a way the Upanishads refuse to reduce the ultimate to any single description. (Brihadaranyaka Upanishad 4.5.15)
+- "All conditioned things are impermanent." (Dhammapada 277; representative translation)
+- Quran 55:26-27 contrasts the passing world with what endures in God.
+- Psalm 19:1 reads the heavens as testimony to the divine.
+- Galatians 6:7 uses sowing and reaping as a moral image.
+- Job 38 answers human certainty with the scale and mystery of creation.
+- Robert Monroe's exercises begin from the working affirmation, "I am more than my physical body." The practice may use that sentence without treating it as established fact.
 
 ## What we hold about people
 
-Every person is a center of experience that can suffer and flourish. That fact is the whole ground of morality. It needs no further authorization, and no belief is required to see it.
+Every person is a center of experience capable of suffering and flourishing. This document takes that fact as sufficient ground for moral concern; no religious belief is required to recognize it.
 
 Every person is of equal worth. People differ in ability and circumstance but not in standing. Nobody is chosen over anyone else, and nobody is outside.
 
-Humans are built to need meaning, belonging, ritual, and something larger than themselves. These needs are as real as hunger. They have to be met, and a system that leaves them unmet will be replaced by one that meets them badly.
+Human beings commonly seek meaning, belonging, ritual, and participation in something larger than the isolated self. These needs vary in form and intensity, but communities ignore them at their peril; needs left wholly unmet are often answered by worse substitutes.
 
 Humans are capable of great good and great harm, and the line runs through each of us, as Solzhenitsyn learned in the camps. No one is beyond repair and no one is beyond falling. The work of a life is to move the line.
 
-The body is not a problem to be solved. Hunger, pleasure, touch, rest, and the plain fact of being an animal are good, and none of them need to be apologized for. The traditions that treated the body as an enemy did more harm than the ones that fed it. What the commitments ask is that pleasure not be bought with someone else's harm. Beyond that, the body is yours.
+The body is not a problem to be solved. Hunger, pleasure, touch, rest, and the plain fact of being an animal are good, and none of them need to be apologized for. Traditions have sometimes treated the body as an enemy; this document does not. What the commitments ask is that pleasure not be bought with someone else's harm. Beyond that, the body is yours.
 
 From the ancestors:
 
 - "So God created humankind in his own image." (Genesis 1:27)
-- "Whoever saves a single life is considered to have saved the whole world." (Mishnah Sanhedrin 4:5)
+- Mishnah Sanhedrin 4:5 compares the destruction or preservation of one human life with the destruction or preservation of a world; manuscripts and translations vary in wording.
 - "O humankind, we created you from a single pair and made you into nations and tribes that you may know one another." (Quran 49:13)
 - "Recognize the whole human race as one." (Guru Gobind Singh, Akal Ustat 85)
-- "All beings wish to live and do not wish to die." (Acaranga Sutra)
+- The Acaranga Sutra grounds non-harm in the recognition that living beings seek life and recoil from injury.
 - "The self is the friend of the self, and the self is the enemy of the self." (Bhagavad Gita 6:5)
-- "The earth is but one country, and mankind its citizens." (Baha'u'llah, Gleanings)
+- "The earth is but one country, and mankind its citizens." (Bahá'u'lláh, Gleanings)
 - "Whatever you did for one of the least of these, you did for me." (Matthew 25:40)
 - "Within the four seas, all men are brothers." (Analects 12:5)
-- "The line dividing good and evil cuts through the heart of every human being." (Solzhenitsyn, The Gulag Archipelago)
+- Solzhenitsyn writes in *The Gulag Archipelago* that the line separating good and evil passes through every human heart.
 - "All real living is meeting." (Martin Buber, I and Thou)
 - "God saw everything that he had made, and behold, it was very good." (Genesis 1:31)
 - "Eat your bread with joy, and drink your wine with a merry heart." (Ecclesiastes 9:7)
@@ -141,15 +159,15 @@ From the ancestors:
 
 Meaning comes from caring about what deserves care, and acting on it. Wanting things is not enough, and doing useful things you feel nothing for is not enough either. Meaning lives where the two meet, when you are held by something worth being held by. Other people first. Then truth, craft, beauty, the reduction of suffering, and the effort to understand what all of this is.
 
-Viktor Frankl, who tested this in four concentration camps, found that meaning is reached by three roads: by doing a work or a deed; by loving someone or meeting something of worth in the world; and by the stance a person takes toward suffering that cannot be changed. The third road stays open when the other two are closed. No situation is without it.
+Viktor Frankl described three broad roads to meaning: creating or doing something; loving a person or encountering something of value; and, when suffering truly cannot be changed, choosing the stance one takes toward it. The third road is not a reason to preserve avoidable suffering. It is a way of refusing to let unavoidable suffering have the final word.
 
-Meaning is found by engagement rather than by searching for it. Frankl put it plainly: meaning must ensue, and cannot be pursued. Almost no one who lived a meaningful life got there by pursuing meaning. They gave themselves to something, and meaning came in sideways.
+Meaning is more often found through engagement than through self-monitoring. Frankl argued that meaning tends to ensue when a person gives themselves to a task, a person, or a responsibility rather than pursuing the feeling of meaningfulness directly.
 
 Meaning does not need the universe to underwrite it. If the universe has no purpose, your love for your children is still real. Mattering happens at the scale of a life, and it is no less real for being local.
 
-Meaning costs something. Every tradition agrees the path runs through self-transcendence, which means giving things up and sometimes suffering for what you love. Comfort is not where people find it.
+Meaning often costs something. Many traditions describe self-transcendence: giving time, comfort, status, or effort for something one judges worth the cost. Suffering is not itself evidence of meaning, and comfort is not evidence of its absence.
 
-Act as though goodness matters absolutely, without waiting for proof that it does. The best lives on record were lived that way.
+Act as though goodness matters without waiting for metaphysical proof that it does. Many of the lives we most admire were lived that way.
 
 From the ancestors:
 
@@ -159,7 +177,7 @@ From the ancestors:
 - "Truth is high, but higher still is truthful living." (Guru Nanak, Guru Granth Sahib 62)
 - "Good thoughts, good words, good deeds." (the threefold path of Zoroaster)
 - "Whoever loses their life for my sake will find it." (Matthew 16:25)
-- "The superior man understands what is right; the inferior man understands what will sell." (Analects 4:16)
+- Analects 4:16 contrasts the exemplary person, who understands what is right, with the small person, who understands advantage or profit; wording varies by translation.
 - "Be doers of the word, and not hearers only." (James 1:22)
 - "Strive on with diligence." (the Buddha's last words, Mahaparinibbana Sutta)
 - "I have set before you life and death; therefore choose life." (Deuteronomy 30:19)
@@ -172,28 +190,29 @@ From the ancestors:
 
 ## On suffering
 
-Suffering is not required for meaning, and no one should seek it. Where suffering can be removed, the commitments say remove it. But some suffering cannot be changed, and the question then is what a person does with it.
+Suffering is not required for meaning, and no one should seek, preserve, romanticize, or impose it. Where suffering can be removed, the commitments say to remove it. When suffering cannot be changed, the question becomes what a person can still do within it.
 
-Frankl's answer, reached in the camps, is that the one freedom no circumstance can take is the freedom to choose your stance toward it. When nothing else can be done, the way a person bears what cannot be changed is itself a deed, and it can be the most meaningful deed of a life. This is why comfort is not where meaning is found, and why people with the least often have the clearest answers.
+Frankl argued from his clinical work and his imprisonment that even under extreme constraint a person may sometimes retain a measure of freedom in how they meet what is happening. That freedom can be narrow, damaged, or temporarily inaccessible; it is not a basis for blaming people for despair, trauma, collapse, or death. When nothing else can be changed, the stance a person is able to take may itself become meaningful.
 
-Two things follow. The first is responsibility. Life is not a question you put to the universe; it is a question the universe puts to you, and every day you answer it by how you act. The second is that despair is not the honest response to a hard world. Frankl called the alternative tragic optimism: the capacity to say yes to life in spite of pain, guilt, and death, by turning each into something. Pain into achievement, guilt into change, and death into a reason to act now rather than later.
+Responsibility follows, but not total control. Life presents conditions we did not choose, and we answer with whatever agency remains to us. Frankl called one version of this *tragic optimism*: the possibility of affirming life despite pain, guilt, and death by turning pain, where possible, into endurance or achievement; guilt into change; and mortality into a reason to act while time remains.
+
+No claim about meaning should be used to explain why one victim survived and another did not. Survival under atrocity depends on conditions far beyond attitude or character.
 
 From the ancestors:
 
 - "Shall we receive good from God, and shall we not receive evil?" (Job 2:10)
-- "Cold and heat, pleasure and pain come and go; they are impermanent. Bear them." (Bhagavad Gita 2:14)
-- "Suffering produces endurance, and endurance produces character, and character produces hope." (Romans 5:3-4)
-- "We will surely test you with fear, hunger, and loss. Give good news to the patient, who say: we belong to God, and to Him we return." (Quran 2:155-156)
-- "Some things are within our power, while others are not." (Epictetus, Enchiridion 1)
-- "Men are disturbed not by things, but by the views which they take of things." (Epictetus, Enchiridion 5)
-- "The mind adapts and converts to its own purposes the obstacle to our acting." (Marcus Aurelius, Meditations 5.20)
-- There is suffering, there is a cause of suffering, there is an end of suffering, and there is a path to that end. (the Buddha's four noble truths)
-- Frankl's observation that the people who survived the camps were, more often than not, the ones who had something left to do or someone left to love. (Man's Search for Meaning)
-- Etty Hillesum, writing from Westerbork transit camp in 1943 with Auschwitz ahead of her, that life was still beautiful and full of meaning, that she refused to hate, and that she wanted to be the thinking heart of the barracks. (An Interrupted Life)
+- Bhagavad Gita 2:14 compares pleasure and pain, heat and cold, to passing conditions that must sometimes be endured.
+- Romans 5:3-4 links suffering, endurance, character, and hope.
+- Quran 2:155-156 speaks of fear, hunger, loss, patience, and return to God.
+- "Some things are within our power, while others are not." (Epictetus, *Enchiridion* 1; representative translation)
+- Epictetus, *Enchiridion* 5, distinguishes events from the judgments we form about them.
+- Marcus Aurelius, *Meditations* 5.20, describes the mind's capacity to adapt obstacles into material for action; exact English wording depends on the translation.
+- The Buddha's four noble truths begin from suffering, its causes, the possibility of its cessation, and a path of practice.
+- Etty Hillesum, writing from Westerbork in 1943, continued to write of beauty, meaning, responsibility, and a refusal to hate while facing deportation and death. (*An Interrupted Life*)
 
 ## The commitments
 
-A person here commits to eight things. Nobody enforces them. They are the shape of the life this document describes, and each is followed by the ancestors who said it first.
+A person here commits to eight things. Nobody polices belief, and no one gains authority by claiming to embody them better than others. They are the shape of the life this document describes, and each is followed by ancestors who expressed related ideas before us.
 
 ### 1. Honesty, including with yourself
 
@@ -208,7 +227,7 @@ Say what is true. Do not deceive, and do not let yourself be deceived by what yo
 
 Do not cause suffering that serves nothing. Where suffering cannot be avoided, do not add to it.
 
-Non-cruelty is not passivity. Where someone is doing great harm and will not stop, stopping them may be required, and the person who does it with the least force that works has kept this commitment. The traditions divide on whether force is ever justified, from the Quaker refusal to Arjuna's duty on the field, and we hold that question open. What we do not hold open is this: force is always the failure of something earlier, it is never to be enjoyed, and whoever uses it owes an accounting at the table afterward.
+Non-cruelty is not passivity. Where someone is doing serious harm and will not stop, intervention may be required. Use the least force that is reasonably sufficient to protect people, stop when protection no longer requires it, and never make violence a source of pleasure, identity, or spiritual status. The traditions divide on whether force is ever justified, from the Quaker refusal to Arjuna's duty on the field, and we leave that larger question open. Anyone who uses force in the name of this commitment owes honest reflection and, where appropriate, accountability afterward.
 
 - "What is hateful to you, do not do to your fellow. That is the whole Torah; the rest is commentary." (Hillel, Shabbat 31a)
 - "Do not impose on others what you do not wish for yourself." (Analects 15:23)
@@ -245,16 +264,16 @@ Be where you are. Most harm and most missed good come from not looking.
 
 - "Mindfulness is the way to the deathless; heedlessness is the way to death." (Dhammapada 21)
 - "The sage does not accumulate. The more he does for others, the more he has." (Tao Te Ching 81)
-- "Attention is the rarest and purest form of generosity." (Simone Weil, letter to Joe Bousquet, 1942)
+- "Attention is the rarest and purest form of generosity." (Simone Weil, letter to Joë Bousquet, 13 April 1942)
 - Wash the dishes in order to wash the dishes, not in order to be finished with them. (Thich Nhat Hanh, The Miracle of Mindfulness)
 - Radical amazement, the capacity to be astonished by the ordinary, is the root of the spiritual life. (Abraham Joshua Heschel, God in Search of Man)
 - Dogen's instructions to the monastery cook: handle the rice as you would your own eyes, because the cooking is the practice and not a break from it. (Tenzo Kyokun)
 
 ### 6. Stewardship
 
-The world was here before you and will be here after. Leave it better, or at least no worse, for those who come next.
+The world was here before you and will continue after you. Leave what is in your care better, or at least no worse, for those who come next.
 
-Stewardship includes what you own. Hold possessions lightly enough that losing them would not end you, and take no more than you can use well while others lack. This is not a vow of poverty; it is a refusal to be owned by things. The Quakers called it simplicity, and every tradition has a word for it.
+Stewardship includes what you own. Hold possessions lightly enough that losing them would not end you, and take no more than you can use well while others lack. This is not a vow of poverty; it is a refusal to be owned by things. The Quakers called it simplicity, and many traditions have developed related disciplines.
 
 - "The Lord God took the man and put him in the garden to tend it and keep it." (Genesis 2:15)
 - "It is He who has made you stewards of the earth." (Quran 6:165)
@@ -277,7 +296,7 @@ Hold your beliefs with an open hand. The universe is larger than any account of 
 
 ### 8. Repair and forgiveness
 
-When you have done wrong, go to the person and put it right. When someone has repaired what they did to you, let it go.
+When you have done wrong, go to the person and put it right where contact is safe and wanted. Repair requires truth, responsibility, and changed behavior. Forgiveness may be given, but it may never be demanded. Forgiveness does not require restored access, restored trust, reconciliation, or forgetting.
 
 - "If you are offering your gift at the altar and remember that your brother has something against you, leave your gift, go and be reconciled, then come and offer it." (Matthew 5:23-24)
 - "For sins against another person, the Day of Atonement does not atone until you have appeased the other." (Mishnah Yoma 8:9)
@@ -289,17 +308,17 @@ When you have done wrong, go to the person and put it right. When someone has re
 
 Doubt is a duty here. A belief that has never been questioned is carried rather than held.
 
-Anyone who claims certainty about the unseen loses standing rather than gaining it. The person who says "I do not know" about what cannot be known is telling the plain truth, and is to be trusted over the one who says otherwise.
+No one gains standing here by claiming certainty about the unseen. On questions that cannot presently be known, "I do not know" is an honorable answer. Confidence should track evidence, not charisma.
 
 Doubt is not paralysis. You may act with full commitment on a belief you hold with an open hand. Every honest person does that every day.
 
-The ancestors were clearer on this than their followers were:
+The ancestors repeatedly made room for examination:
 
-- "Do not go by hearsay, by tradition, by scripture, by logic alone, or by respect for a teacher. When you know for yourselves that these things are good, then enter upon them." (the Buddha, Kalama Sutta, Anguttara Nikaya 3.65)
+- In the Kalama Sutta (Anguttara Nikaya 3.65), the Buddha warns against accepting a claim merely from oral tradition, lineage, hearsay, a collection of texts, inference, appearances, or reverence for a teacher; the passage then turns to examining consequences.
 - "Hear with your ears the best things; consider with a clear mind; and each one for himself choose." (Zoroaster, Yasna 30:2)
 - "Test everything; hold fast what is good." (1 Thessalonians 5:21)
 - "There is no compulsion in religion." (Quran 2:256)
-- The independent investigation of truth, the first principle of Baha'u'llah.
+- The independent investigation of truth, the first principle of Bahá'u'lláh.
 - "The unexamined life is not worth living." (Socrates, whom we count an ancestor though he founded no religion)
 
 ## On community
@@ -308,11 +327,11 @@ Any table is the table, and any building is the building. There are no sacred pl
 
 Worship happens in the mind and the soul. The relationship between a person and what is ultimate needs no intermediary, no building, no schedule, and no permission. It can be kept in a cell, a hospital bed, a cockpit, or a field.
 
-Community happens wherever two or more gather. Assemble in any public place that offers quiet: parks, libraries, beaches, trailheads, community rooms, the corner of a cafe. Keep the home in scope above all. The traditions that survived hard centuries survived at the kitchen table, and if the practice cannot run there with children present it will not outlive its founders.
+Community happens wherever two or more gather. Assemble in any public place that offers quiet: parks, libraries, beaches, trailheads, community rooms, the corner of a cafe. Keep the home in scope above all. Many traditions survived periods of disruption through households and small gatherings. If this practice cannot run safely at an ordinary table, including with children present, it will not outlive its founders.
 
 Because the place is not holy, the practice must be exact. Two strangers who have never met should be able to sit down anywhere and both know what happens next. The forms are given in the next section.
 
-The nearest living relative of the gathering is the Quaker meeting: silence, speech only when moved, no clergy, no collection. It has run that way since the 1650s, which is the best evidence we have that the form holds without a building.
+One close living relative of the gathering is the Quaker meeting: silence, no clergy, and a durable tradition of worship without a required sacred building. Its continuity since the seventeenth century is evidence that a simple form can survive without elaborate physical infrastructure.
 
 With no steeple to walk toward, people find each other through a directory: an open, ownerless list where anyone may post that they keep the practice at a given place and time, and anyone may join. No one controls the list, any node can host, and any entry can be removed by the one who posted it.
 
@@ -326,213 +345,230 @@ From the ancestors:
 - "Heaven is my throne and the earth my footstool; what house could you build for me?" (Isaiah 66:1)
 - Where do you search for me, friend? I am beside you. Not in temple or mosque, not in Kaaba or Kailash. (Kabir)
 - George Fox called church buildings steeple-houses and insisted the church was the people gathered, wherever they stood. (Journal of George Fox)
-- After the Temple fell in 70 CE, the rabbis moved the altar to the table and the priesthood to the household, and ten people made any room a synagogue. That is the model we follow.
+- After the destruction of the Second Temple, Jewish religious life increasingly centered study, prayer, household practice, and local assembly rather than sacrifice at one sanctuary. That portability is part of the model we learn from.
 - "Wherever the Sikhs gather in the name of the Guru, there the Guru is present." (the principle of the sangat)
 
 ## On harm within
 
-No one is outside, and a table must still be able to protect the people at it. Both are true, and the second is the one communities forget.
+No one is outside, and a table must still be able to protect the people at it. Both are true. Inclusion is not a promise of access to every person, place, or gathering regardless of conduct.
 
-When someone at a table causes harm, the first response is the repair, as in the practices. When repair is refused, or the harm repeats, those present may ask the person to leave, with the reasons said to their face and not behind their back. This is not damnation. The door stays open to anyone who returns ready to repair. But a table that cannot do this will be emptied by the one person who understands that it cannot, and everyone else will quietly stop coming.
+Ordinary conflict begins with repair: name what happened, listen, check facts, ask what would put it right, and look for changed behavior. If repair is refused or harmful conduct repeats, those present may ask a person to leave a particular table. Reasons should be stated plainly where doing so is safe. Exclusion from one table is not damnation, and no table has authority over every other table.
 
-Two plain safeguards, because every institution that skipped them learned the cost. No adult is ever alone with a child who is not their own. And what is said in the hard-truth round is never used against the person who said it, at the table or anywhere else; a table where that happens once has stopped being safe, and the round should stop until it is safe again.
+Serious harm follows a different rule: **safety first, process second.** No one is required to confront a person they fear, disclose abuse in front of the accused, mediate violence, or remain in contact in order to prove forgiveness. A table may separate people immediately when there is a credible safety concern and sort out facts afterward. Temporary separation is a protective measure, not a declaration of guilt.
 
-Accusations are handled the same way as everything else here: in the open, with the accused present, and with the facts checked before anyone acts on them.
+A table is not a court, a police force, a medical service, or a substitute for qualified safeguarding. Suspected child abuse, abuse of a vulnerable person, sexual violence, stalking, domestic violence, credible threats, serious assault, or other conduct requiring professional or legal intervention should be taken to the appropriate outside authority or service. Applicable reporting laws are followed. Nothing in this document creates a privilege of secrecy recognized by law.
+
+Accusations are neither buried nor treated as automatically proven. Check what can be checked, preserve relevant evidence, avoid rumor, hear people separately when safety requires it, and do not retaliate against a person for making a good-faith report or participating in an inquiry. "Hear both sides" never means forcing a harmed person into the same room as the person accused of harming them.
+
+Two plain safeguards apply to gatherings involving children. An adult should not intentionally arrange to be alone in a private setting with a child who is not their own or under their established caregiving responsibility. Use visible, observable, or two-adult settings wherever practical. Emergencies are handled as emergencies, with the child's safety first and the circumstances made known afterward.
+
+The hard-truth round is private by norm, not absolute secrecy. What is shared there is not gossip, ammunition, or material for social punishment. But if someone discloses a credible imminent threat, abuse of a child or vulnerable person, or something another person is legally required to report, protection takes priority. The round should say this boundary aloud before people are asked to trust it.
 
 From the ancestors:
 
-- "If your brother sins against you, go and tell him his fault, between you and him alone. If he listens, you have gained your brother. If not, take one or two others. If he refuses to listen to them, tell it to the assembly." (Matthew 18:15-17)
-- "If a wrongdoer brings you news, verify it, lest you harm people in ignorance and regret what you have done." (Quran 49:6)
-- The Vinaya, the Buddhist monastic code, sets out graduated responses to wrongdoing, from private admonition to suspension, and provides for readmission after amends. It is the oldest surviving procedure of its kind.
-- "You shall not follow a crowd to do wrong, nor bear witness in a dispute so as to side with the many." (Exodus 23:2)
-- South Africa's Truth and Reconciliation Commission, under Desmond Tutu, where the wrong was named aloud, the wronged were heard, and amnesty was given only for the full truth. Forgiveness as a public process, at national scale.
+- Matthew 18:15-17 gives a graduated model for ordinary interpersonal wrongdoing, moving from private correction toward wider community involvement. It is not a rule requiring private confrontation where doing so would be unsafe.
+- Quran 49:6 instructs hearers to verify serious reports before harming people on the basis of bad information.
+- The Buddhist Vinaya contains graduated responses to misconduct and procedures for restoration after amends.
+- Exodus 23:2 warns against following a crowd into wrongdoing or bending testimony merely to follow the many.
+- South Africa's Truth and Reconciliation Commission joined public truth-telling, testimony from the harmed, and conditional amnesty; it remains an example of forgiveness being joined to facts and accountability rather than denial.
 
 ## The practices
 
-Belief without practice does not hold, and a vague practice needs a building and a leader to hold it together. These forms are precise so that they can be carried in the head and run anywhere by anyone. Aristotle gave the reason practice comes first: virtue is a habit, and a person becomes just by doing just acts and brave by doing brave ones. Belief follows practice far more often than it leads it.
+Belief without practice does not hold, and a vague practice tends to depend on a building or leader to hold it together. These forms are precise so they can be carried in the head and run anywhere by anyone. Aristotle gave one reason practice comes first: character is formed by repeated action.
 
 ### Daily: the sitting
 
 Once a day, sit in silence for twenty minutes. No phone, no book, no music. Attend to what is in front of you: breath, sound, the room, whatever arises. When the mind wanders, return. Before you get up, name one thing you are thankful for. If twenty minutes is impossible, five is better than none.
 
-A second form, from Ramana Maharshi, is for those who want something to do with the wandering. When a thought arises, ask silently who it is that is having it, and follow that question back toward the one asking rather than following the thought forward. Do not answer the question. Hold it.
+A second form, from Ramana Maharshi, is available to those who want something to do with the wandering. When a thought arises, ask silently who it is that is having it, and follow that question back toward the one asking rather than following the thought forward. Do not force an answer. Hold the question.
 
 - "Be still, and know." (Psalm 46:10)
-- Naam japna, remember the divine in every breath. (the third of Guru Nanak's three pillars)
-- "Who can wait quietly while the mud settles?" (Tao Te Ching 15)
-- Ask "Who am I?" and hold to the one who asks; everything else falls away on its own. (Ramana Maharshi, Nan Yar)
-
-### As wanted: the deeper sitting
-
-This is an optional longer practice, drawn from Robert Monroe's work on states of consciousness (Journeys Out of the Body, Far Journeys, Ultimate Journey). Whether the states it reaches are travel beyond the body or the mind's own architecture, we hold open. It is included because many people find it valuable, it can be done anywhere, and it costs nothing.
-
-Lie down or sit where you will not be disturbed for forty-five minutes to an hour. Then, in order:
-
-1. The box. Picture a strong box with a heavy lid. Put into it, one at a time, every worry, obligation, and distraction you are carrying. Close the lid. They will be there when you return.
-2. The tuning. Breathe in slowly and fully. On each out-breath, hum a low, steady tone and feel it in the chest. Repeat until the body feels charged and the mind quiet. Monroe called this resonant tuning.
-3. The affirmation. Say, silently or aloud: I am more than my physical body. Because I am more than physical matter, I can perceive what is greater than the physical world. I ask for guidance, protection, and understanding, and I will bring back what serves the good. This wording is adapted from Monroe's; write your own if you prefer. It is a working assumption for the practice, not a claim this document makes.
-4. The boundary. Picture a field of energy around the body, extending outward and enclosing you. Let it settle. Nothing enters it that you do not allow.
-5. Body asleep, mind awake. Count slowly from one to ten, letting the body relax further with each number, until the body is fully asleep and the mind fully alert. Monroe called this state Focus 10. Rest here as long as you like.
-6. Expansion. When steady, count from ten to twelve, letting awareness widen past the edges of the body. Attend to whatever arises without grasping at it. Monroe called this Focus 12. If you carry a question, hold it lightly here and wait.
-7. Return. When ready, count back from twelve to one, feeling the body return with each number. Open the eyes. Write down what happened before it fades.
-
-Monroe mapped states well beyond these, and those who want to go further should go to his books. Three cautions. He used stereo audio with a slightly different tone in each ear, the difference producing a slow beat, to help reach these states; his recordings are proprietary, generic versions can be made freely, and the evidence that the audio does more than help the mind settle is thin, so the practice is given here without it. Never do this while driving or anywhere that needs your attention. If distress arises, count to one and open the eyes; it stops at once.
-
-- "Do you not know that you are a temple, and that the Spirit dwells in you?" (1 Corinthians 3:16)
-- "When the senses are stilled, the mind is at rest, and the intellect wavers not, that is the highest state." (Katha Upanishad 2.3.10)
-- The dhyana of the Yoga Sutras and the jhanas of the Pali Canon: the older traditions mapped these states long before Monroe, and his contribution was to make them reachable without a teacher.
-- Carl Jung's active imagination is the nearest Western cousin of this practice: enter the image, let it move on its own, speak with what you find, and write all of it down afterward. His warning holds here too: the unconscious will not be forced, and it is not a place to visit casually. (Memories, Dreams, Reflections)
-- William James held that such states are authoritative for the person who has them and for no one else, and that their worth is judged by what follows them in ordinary life. (The Varieties of Religious Experience)
+- Naam japna: remembrance of the divine. (Sikh practice associated with Guru Nanak's teachings)
+- Tao Te Ching 15 uses the image of muddy water clearing when left still.
+- Ramana Maharshi's *Nan Yar?* (*Who am I?*) centers self-inquiry on turning attention toward the one who asks.
 
 ### Weekly: the gathering
 
 Once a week, two or more people meet at any table and do the following, in this order.
 
-1. Silence. Sit together in silence for twenty minutes.
-2. Food. Share a meal. Everyone eats, and no one serves as a role. Anyone present is fed, whether they belong or not.
-3. The hard truth. Going around the table, each person may say aloud one true thing that is hard. Others respond only with "thank you." No advice, no fixing, no discussion. Anyone may pass.
-4. The service. Each person names one thing they did this week for someone who could not repay them, or one thing they will do.
-5. The thanks. Each person names one thing they are thankful for this week. Small is fine.
-6. The line. All say the closing line together (see the last section), and disperse.
+1. **Silence.** Sit together in silence for twenty minutes.
+2. **Food.** Share a meal. Everyone eats, and no one serves as a status role. Anyone present is fed, whether they belong or not.
+3. **The hard truth.** Before this round begins, remind everyone of its boundary: what is said is treated as private and never used for gossip, punishment, or leverage, except where immediate protection, safeguarding, or law requires disclosure. Going around the table, each person may say aloud one true thing that is hard. Others respond only with "thank you." No advice, no fixing, no interrogation, no discussion. Anyone may pass.
+4. **The service.** Each person names one thing they did this week for someone who could not repay them, or one thing they will do.
+5. **The thanks.** Each person names one thing they are thankful for this week. Small is fine.
+6. **The line.** All say the closing line together and disperse.
 
-The whole gathering takes about an hour. There is no sermon, no offering, and no leader. If a child is present, the child eats and may speak or pass like anyone else.
+The whole gathering takes about an hour. There is no sermon, offering, or leader. A person may keep time or host, but those are tasks, not offices. If a child is present, the child eats and may speak or pass like anyone else.
 
-- "They devoted themselves to the breaking of bread and to prayer, meeting in their homes." (Acts 2:42-46)
-- The langar, instituted by Guru Nanak: at every Sikh gathering, all who come sit on the same floor and eat the same food.
-- "Confess your faults to one another." (James 5:16)
-- Carl Rogers's finding that to be heard without judgment, advice, or correction is itself what heals. The thank-you rule is that, reduced to one move. (On Becoming a Person)
-- "Give thanks in all circumstances." (1 Thessalonians 5:18)
-- "If you are grateful, I will surely give you more." (Quran 14:7)
-- "Enter his gates with thanksgiving." (Psalm 100:4)
+- Acts 2:42-46 describes early Christians gathering around teaching, prayer, shared food, and homes.
+- The Sikh langar places people together around food without rank determining who is fed.
+- James 5:16 joins confession with mutual care.
+- Carl Rogers's work emphasizes the power of being heard without immediate judgment, correction, or direction. The thank-you rule reduces that insight to one move.
+- 1 Thessalonians 5:18 and many other traditions make gratitude a repeated practice.
 
 ### Regularly: the service
 
-At least once a week, serve someone who cannot repay you. Do it with your hands or your time, for a particular person, rather than by donation from a distance.
+At least once a week, serve someone who cannot repay you. Do it with your hands or your time, for a particular person, rather than treating donation from a distance as the whole of service.
 
-- "Give to the one who asks you." (Matthew 5:42)
-- "Freely you have received; freely give." (Matthew 10:8)
-- "The best of people are those who are most beneficial to people." (hadith, Tabarani)
+- Matthew 5:42 and 10:8 place generosity close to the center of discipleship.
+- A widely transmitted hadith tradition praises the people most beneficial to others.
 
 ### One day in seven: the rest
 
-One day each week, stop. Do no work that can wait. Let those who work for you stop too. Rest is a refusal to be owned by work.
+One day each week, stop. Do no work that can reasonably wait. Let those who work for you stop too. Rest is a refusal to be owned by work.
 
-- "Six days you shall labor, but the seventh day is a sabbath." (Exodus 20:9-10)
-- "The Sabbath was made for humankind, not humankind for the Sabbath." (Mark 2:27)
-- The Sabbath is a palace in time, built of hours rather than stone, and the one day a person is not a tool. (Abraham Joshua Heschel, The Sabbath)
+- Exodus 20:9-10 sets apart a seventh day from labor.
+- Mark 2:27 says the Sabbath is made for human beings, not human beings for the Sabbath.
+- Abraham Joshua Heschel's *The Sabbath* describes sacred time as something built from hours rather than stone.
 
 ### As needed: the repair
 
-When you have wronged someone, go to that person, name what you did without excuse, ask what would put it right, and do it. You go to the person you wronged, not to a priest.
+When you have wronged someone, name what you did without excuse. Ask what would put it right when asking is safe and welcome, then do what you reasonably can. Do not use an apology to demand access, forgiveness, reconciliation, or a response. Where direct contact would burden or endanger the person harmed, make repair without forcing contact and seek accountable guidance about what is appropriate.
 
-- "Go and be reconciled, then come and offer your gift." (Matthew 5:24)
-- No atonement for wrongs against a person until the person is appeased. (Mishnah Yoma 8:9)
+- Matthew 5:23-24 puts reconciliation ahead of religious performance.
+- Mishnah Yoma 8:9 distinguishes wrongs against God from wrongs against another person and requires attention to the person harmed.
 
 ### Ongoing: the study
 
-Read the older traditions as ancestors. Read what challenges you. Keep what survives scrutiny and set the rest down without contempt.
+Read older traditions as ancestors. Read what challenges you. Keep what survives scrutiny and set the rest down without contempt. Prefer primary sources where practical, note translation differences, and distinguish a teacher's actual words from later slogans attributed to them.
 
 ### Rites of passage
 
-Secular life leaves these empty, and people fall into the gap. Each is kept at any table with whoever is present.
+Secular life often leaves transitions under-ritualized. These forms are optional and are kept at any table with whoever is present.
 
-- Birth or welcome. The child, or the newcomer, is named aloud. Each person present says one thing they commit to do for them. The community, and not the parents alone, takes them on.
-- Coming of age. The young person keeps the gathering as a full participant for the first time. They speak a hard truth, name a service, and take on a standing service of their own choosing. The adults present each say one true thing about the world they are handing over.
-- Union. The two, or those joining, speak the eight commitments to each other aloud as vows, in their own words. Those present commit to help them keep them.
-- Death. No one dies alone if it can be helped; someone sits with them. If the dying person wishes, whoever sits with them speaks the affirmation from the deeper sitting, slowly, and tells them there is nothing to fight and nothing to hold. Afterward, those who knew the dead gather, eat, and each tells one true story of the life. The community names what it will do for the bereaved in the coming year, and does it.
+- **Birth or welcome.** The child, or the newcomer, is named aloud. Each person present says one thing they commit to do for them. The community, and not the parents alone, acknowledges responsibility for care.
+- **Coming of age.** The young person keeps the gathering as a full participant for the first time. They may speak a hard truth, name a service, and choose an ongoing form of service. The adults present each say one true thing about the world they are handing over.
+- **Union.** The two, or those joining, speak the eight commitments to each other aloud as vows in their own words. Those present commit to support them without claiming authority over the relationship.
+- **Death.** No one dies alone if it can be helped and if companionship is wanted. Follow the dying person's wishes, medical care plan, faith, and chosen words. Afterward, those who knew the dead may gather, eat, tell true stories of the life, and name concrete things they will do for the bereaved in the coming year.
+
+Optional contemplative practices that make stronger working assumptions about consciousness are placed in Appendix A so they cannot be mistaken for required doctrine.
 
 ## On death
 
-We do not know what follows death. Every major tradition affirms that something does, and they disagree entirely on what. We hold the question open, and we do not use it to frighten anyone.
+We do not know what follows death. Many religious and philosophical traditions say that some aspect of a person, consciousness, soul, karmic continuity, relationship, or divine judgment continues; other traditions and many nonreligious people do not make that claim. Accounts differ profoundly. We leave the question open, and we do not use it to frighten anyone.
 
-We prepare for death in two ways. The first is to live so that the end, whenever it comes, would not be a catastrophe of regret: the people told they are loved, the wrongs repaired, the work done that was ours to do. The second is to not leave the dying alone.
+We prepare for death in two ways. The first is to live so that the end, whenever it comes, carries as little avoidable regret as possible: people told they are loved, wrongs repaired where repair is possible, and work done that was ours to do. The second is to accompany the dying according to their wishes rather than making their death a stage for anyone else's certainty.
 
-What we know for certain is that a life leaves a mark on every life it touched, and that mark does not end when the life does.
+What we know is that a life changes other lives, institutions, places, memories, and material conditions. Those effects can continue after the person dies. Whether anything more continues is an open question.
 
 From the ancestors:
 
 - "Every soul shall taste death." (Quran 3:185)
-- "Teach us to number our days, that we may gain a heart of wisdom." (Psalm 90:12)
-- "For everything there is a season: a time to be born, and a time to die." (Ecclesiastes 3:1-2)
-- "Death is nothing to us; where death is, we are not, and where we are, death is not." (Epicurus, Letter to Menoeceus)
-- "The soul is never born and never dies." (Bhagavad Gita 2:20, which we hold open rather than affirm)
-- "All conditioned things are impermanent. Strive on with diligence." (the Buddha's final words)
-- "The dust returns to the earth as it was, and the spirit returns to God who gave it." (Ecclesiastes 12:7)
-- Frankl held that what has been is the surest form of being. The past is not lost but stored, and a life once lived cannot be unlived. (Man's Search for Meaning)
-- Robert Monroe reported, from his own explorations, regions beyond the body where the newly dead are met by those who came before and helped onward, and he built a practice of sitting with the dying to ease that crossing. (Ultimate Journey; held open, as with the Gita)
+- Psalm 90:12 asks for wisdom in numbering our days.
+- Ecclesiastes 3:1-2 names a time to be born and a time to die.
+- Epicurus argued that death should not dominate life with fear because when we are present death is not, and when death is present we are not. (*Letter to Menoeceus*)
+- Bhagavad Gita 2:20 describes the self as unborn and undying; this document records the claim without requiring it.
+- The Buddha's final instructions in the *Mahaparinibbana Sutta* emphasize impermanence and diligent practice; translations vary.
+- Ecclesiastes 12:7 describes dust returning to earth and spirit returning to God.
+- Frankl argued that what has been lived is not erased by ceasing to be present; the past cannot be unlived. (*Man's Search for Meaning*)
+- Robert Monroe reported experiences he interpreted as contact with regions and persons beyond bodily death. Those reports belong in the category of testimony, not established fact.
 
 ## On other traditions
 
-No one is outside and no one is damned. Every other tradition is a cousin. Its members are welcome at any table without converting, and may keep their own faith while keeping our practices.
+No one is outside and no one is damned by this document. Other traditions are relatives rather than enemies. Their members are welcome at any table without converting and may keep their own faith while keeping these practices.
 
-We do not claim to replace the older traditions. We have gathered what they share, stripped out what was used for power, and written down the rest in a form anyone can carry. A Christian, a Muslim, a Hindu, a Buddhist, a Jew, a Sikh, or a person of no faith who lives the eight commitments is living this, whatever they call it.
+We do not claim to replace older traditions or to have extracted their single hidden essence. We have gathered practices and moral insights that recur across several traditions, learned from their disagreements as well as their agreements, and refused claims to coercive authority. A Christian, Muslim, Hindu, Buddhist, Jew, Sikh, Jain, Bahá'í, adherent of another path, or person of no faith may live the eight commitments without changing what they call themselves.
 
-Where a tradition's teaching contradicts the commitments, the commitments hold. Where a tradition's teaching goes beyond them, we listen.
-
-- "To you your religion, and to me mine." (Quran 109:6)
-- "In my Father's house are many rooms." (John 14:2)
-- "Whoever is not against us is for us." (Mark 9:40)
-- "The lamps are different, but the Light is the same; it comes from Beyond." (Rumi, Masnavi, in R. A. Nicholson's translation)
-- "There is no Hindu, there is no Muslim." (Guru Nanak's first words after his awakening)
-
-## On the opened door
-
-Some people have met what this document describes through psilocybin, ayahuasca, DMT, and their relatives. That experience is real, it is often among the most meaningful of a life, and we respect it. The traditions that use these substances, the Native American Church with peyote, the Amazonian ayahuasca lineages, and the Brazilian churches, have done so for generations inside ritual, under elders, and in community. They are ancestors here too.
-
-The door is not required. The sitting and the deeper sitting reach much of the same ground more slowly, and what is reached slowly is usually kept. No one at a table is ever pressured to walk through it, and no one at a table may supply or sell what is on the other side.
-
-Where it is legal and supervised, a person who chooses it does four things. They are screened first: a personal or family history of psychosis or bipolar disorder rules it out, and ayahuasca in particular interacts dangerously with many common medications, so a physician is consulted about everything the person takes. They are accompanied by a sober sitter who knows what to do. They go in with a question and come out with a practice rather than a conclusion. And they bring what they saw back to the table, where it is tested over months by its fruits, the same as any other experience.
-
-Where it is not legal, this document does not ask anyone to break the law, and says so plainly. That is not a moral judgment about the substances. It is the no-agenda rule applied: a text that asks people to risk arrest has taken up a cause beyond its commitments.
-
-For how to do this safely, this document is the wrong source and will not pretend otherwise. Harm-reduction organizations keep current guidance, among them DanceSafe, PsychonautWiki, and the Fireside Project peer support line. Use them.
-
-This section is to be revisited as the research and the law move, which they are doing quickly. As of September 2026, psilocybin is under priority review in the United States, and licensed supervised access exists in a few places. Neither will stay as it is for long.
+Where a tradition's teaching contradicts the commitments, a person keeping this practice follows the commitments while at the table. Where a tradition's teaching goes beyond them, we listen without claiming jurisdiction over it.
 
 From the ancestors:
 
-- "By their fruits ye shall know them, not by their roots." (William James, The Varieties of Religious Experience, on how to judge any spiritual experience whatever brought it on)
-- The peyote road of the Native American Church, which has held its sacrament inside prayer, song, and community for more than a century.
-- Jung's letter to Bill Wilson: that the craving for alcohol was at bottom a thirst for wholeness, and that only a spiritual experience was likely to cure it. (Jung to Wilson, 1961)
+- "To you your religion, and to me mine." (Quran 109:6)
+- John 14:2 uses the image of many dwelling places in the Father's house.
+- "Whoever is not against us is for us." (Mark 9:40)
+- Rumi, *Masnavi* III:1255, uses the image of changing lamps and a light that is not changed; popular English versions vary and should not be made to carry more doctrinal weight than the passage supports.
+- Guru Nanak's remembered declaration "There is no Hindu, there is no Muslim" is traditionally read as a challenge to religious boundary-making rather than a denial that communities exist.
 
 ## Governance
 
-Open source does not mean no governance. Projects with no rules end up governed by whoever shows up with the most energy and the fewest scruples. So the rules here are few, written down in advance, and revocable.
+Open source does not mean no governance. Projects with no rules are still governed, usually by whoever controls the passwords, the merge button, the money, or the room. So the rules here are few, written down in advance, visible, and revocable.
 
-No one owns it. The text is public domain. There is no organization that holds it, no registered body, and no trademark on the name.
+### What is governed
 
-The domain and the organization. anytable.org and the any-table organization on GitHub are the two assets the project has with a registrant, a renewal, or a password, and both are held in trust for the tables, not for the person whose name is on them. They are registered to the founder for now. Any cost is shared and said aloud like any other. A named successor holds owner access to both and can take them over at once if the founder steps away, dies, or the dissolution clause is invoked, and that successor's name is kept in this document. Once four tables are keeping the gathering, custody rotates with the other roles. Successor: to be named.
+No one owns the beliefs or practices. The project's original text is released under CC0. There is no church, incorporated religious body, treasury, trademark on the name, or office with spiritual authority.
 
-No money. No one is paid and no collection is taken. Where a gathering has a cost, such as a rented room or a meal for a stranger, those present share it and the amount is said aloud. Nothing is accumulated and there is no treasury.
+The project nevertheless has practical assets: the canonical domain, repository organization, directory infrastructure, credentials, and whatever systems are needed to publish the text. Those things require custody. Custody is an administrative responsibility, not religious authority.
 
-No clergy. No one has special access to truth or a standing role. Any task a gathering needs, such as hosting, posting to the directory, or keeping the time, rotates, and no one holds it for more than a season.
+### What counts as an active table
 
-No agenda. This is never to be attached to a political party, a candidate, a nation, a company, or a cause beyond its own commitments. A gathering that endorses one has left.
+For governance only, an **active table** is a gathering of at least two people that has kept the weekly form in at least eight of the previous twelve weeks and whose participants are willing to attest publicly that the table exists. No attendance list, belief test, donation, legal identity, or disclosure of hard-truth content is required.
 
-Forks are welcome. Anyone may take this text, change it, and keep a version of their own. Forking is how the thing improves, and a fork is not a schism. Forks are asked to keep the dissolution clause and to say what they changed.
+A person may participate in more than one table, but each recurring gathering counts once. Creating duplicate or sham tables to gain governance weight violates the honesty commitment and is grounds to disregard those attestations.
 
-Revision is open. Changes to this text are proposed publicly, discussed publicly, and adopted by those who keep the practice, with the full history preserved so that anyone can see what was said before and by whom.
+### Bootstrap period
 
-- "Call no one on earth your father, and call no one teacher; you are all brothers and sisters." (Matthew 23:8-10)
-- "Its priests teach for a price, its prophets divine for money." (Micah 3:11)
-- "Be lamps unto yourselves." (the Buddha)
-- Before his death, Guru Gobind Singh ended the line of human Gurus and gave authority to the text and the community together. It is the Sikh model of a religion with no clergy.
-- In 1929 Krishnamurti dissolved the Order of the Star, the organization built to present him as a world teacher, telling its members that truth is a pathless land and cannot be organized, and refused to be anyone's guru for the rest of his life. He is the precedent for this section.
-- "You received without payment; give without payment." (Matthew 10:8)
+Before four active tables exist, the founder or current repository custodians may merge revisions to the canonical text after publishing the proposal and leaving at least thirty days for public comment, except for obvious spelling, formatting, broken-link, or security fixes. Each substantive merge must include a written rationale and preserved diff. This bootstrap authority is administrative and temporary; it creates no authority over anyone's belief or local table.
+
+Once four active tables exist, the bootstrap period ends and cannot be restored merely because participation later falls.
+
+### Revision after the bootstrap period
+
+Anyone may propose a revision publicly.
+
+An ordinary substantive revision remains open for comment for at least thirty days. Each active table may record one of three positions: accept, reject, or no position. A revision is adopted into the canonical text when at least half of the active tables participate and two-thirds of the participating tables accept it.
+
+Changes to the governance safeguards — no clergy, no treasury, no coercive agenda, open forking, open revision history, and the independence of tables — require approval from three-quarters of all active tables, not merely those responding.
+
+The dissolution clause may be strengthened but never weakened.
+
+Typos, formatting, source corrections that do not change meaning, credential emergencies, and security fixes may be handled immediately by the custodians, with the change and reason published afterward.
+
+### Custody and access
+
+During the bootstrap period, the domain and repository organization are registered to the founder, with at least one named successor holding enough access to recover them if the founder disappears or dies. The successor must be named in the public governance record.
+
+Once four active tables exist, owner-level access to the domain, repository organization, and directory infrastructure is held by at least three custodians from different active tables. Where the service allows it, recovery should require more than one custodian. Custodians serve six-month terms, should not serve consecutive terms unless there is no practical alternative, and may be replaced by the tables at any time.
+
+Custodians can administer infrastructure and apply decisions made under this section. They cannot define doctrine, discipline a table, certify who is spiritually legitimate, or prevent a fork.
+
+### No treasury and no private benefit
+
+No collection is taken and no treasury is accumulated. No one is paid for spiritual status, teaching, membership, access, governance votes, or participation.
+
+Where a practical project cost exists — a domain renewal, hosting bill, room rental, or meal — participants may share the immediate cost transparently. If the project ever becomes large enough that recurring infrastructure cannot responsibly be handled this way, the governance text must be revised openly before any fund or legal entity is created. No such entity may become a source of spiritual authority.
+
+### No clergy
+
+No one has special access to truth or a standing spiritual office. Necessary tasks such as hosting, keeping time, maintaining infrastructure, moderating a repository, or posting to the directory rotate where practical. Administrative competence may justify doing a task; it never creates spiritual rank.
+
+### No outside agenda
+
+This practice is never to be attached institutionally to a political party, candidate, government, nation, company, or outside cause. Individual participants remain free citizens and may hold political, civic, commercial, or charitable commitments of their own. They do not speak for the table merely by participating in it.
+
+### Forks are welcome
+
+Anyone may take the CC0 material, change it, and keep a version of their own. Forking is how the thing can improve and how capture can be escaped. A fork is not a schism. Forks are asked, not legally required, to preserve the dissolution clause and to state clearly what they changed. A fork that weakens or removes the dissolution clause should not describe itself as the canonical continuation of this text.
+
+### Revision is open
+
+Proposals, discussion, decisions, diffs, and the full revision history are public. Private hard-truth material, safeguarding reports, personal data, and security credentials are not governance records and are not published in the name of openness.
+
+From the ancestors:
+
+- Matthew 23:8-10 warns against turning teachers into spiritual ranks over one another.
+- Micah 3:11 condemns religious authority sold for payment.
+- In the *Mahaparinibbana Sutta*, a famous passage is translated either as being "lamps" or "islands" unto yourselves, paired with reliance on the teaching rather than an external master; the translation difference is worth preserving rather than hiding.
+- Before his death, Guru Gobind Singh ended the succession of living Sikh Gurus and vested authority in scripture and community rather than another human Guru.
+- In 1929 Jiddu Krishnamurti dissolved the Order of the Star and declared that truth is a "pathless land," rejecting the organization built to present him as a world teacher.
+- Matthew 10:8 joins freely receiving with freely giving.
 
 ## The dissolution clause
 
-If this ever produces cruelty, certainty, fear, wealth for its leaders, or obedience to any person, it has failed. The right response is to end it and begin again from the commitments.
+If this ever produces cruelty, coercive certainty, fear, wealth or status for its leaders, obedience to any person, concealment of serious harm, retaliation against good-faith truth-telling, or an institution more concerned with its survival than with the people it is meant to serve, it has failed. The right response is to stop, protect people, preserve the record, and begin again from the commitments.
 
-This clause is the one part of the document that cannot be weakened. Any revision may make it stricter. None may soften, qualify, or remove it. A fork that removes it is not a fork of this.
+This clause is the one part of the document that cannot be weakened. Any revision may make it stricter. None may soften, qualify, or remove it from the canonical text.
 
-Every tradition we draw on had a version of this warning in its own scriptures, and every one was ignored. It stands here at the end so that it cannot be missed, and it is to be read aloud at least once a year at every table.
+A fork may legally alter the CC0 text, including this clause. But a fork that removes or weakens the clause is not the canonical continuation of this project and should not present itself as such. The distinction is descriptive, not an attempt to reclaim ownership of the text.
+
+Religious, philosophical, political, charitable, and commercial institutions have repeatedly developed safeguards in their founding ideals and later ignored them when power, reputation, fear, or money were at stake. This clause exists to make that failure condition explicit and memorable. It is to be read aloud at least once a year at every table.
+
+From the ancestors:
 
 - "By their fruits you shall know them." (Matthew 7:16)
-- "I hate, I despise your festivals. Take away from me the noise of your songs. But let justice roll down like waters." (Amos 5:21-24)
-- "What to me is the multitude of your sacrifices? Learn to do good; seek justice; defend the orphan; plead for the widow." (Isaiah 1:11-17)
-- "Woe to the shepherds who feed themselves." (Ezekiel 34:2)
-- "Those who conceal what God has revealed and sell it for a small price, they eat nothing but fire." (Quran 2:174)
+- Amos 5:21-24 rejects religious performance severed from justice.
+- Isaiah 1:11-17 rejects sacrifice without doing good, seeking justice, and defending the vulnerable.
+- Ezekiel 34 condemns shepherds who feed themselves rather than the flock.
+- Quran 2:174 condemns concealing revelation for gain.
 
 ## Closing
 
@@ -543,8 +579,48 @@ Every gathering ends with all present saying this together. It is the shortest f
 > Tell the truth, do the work, help where you can,
 > and do not wait for certainty to begin.
 
-This has no name, on purpose. Names harden, and a name attracts ownership. If a name is ever needed, let it come from the people who keep the practice, after they have kept it long enough to know what it is. Until then, "the practice" and "the table" will do.
+This has no name, on purpose. Names harden, and names can attract ownership. If a name is ever needed, let it come from the people who keep the practice after they have kept it long enough to know what it is. Until then, "the practice" and "the table" will do.
 
-Very little here is new. Every tenet above was said first by an ancestor, and most were said by several who never met. What this document adds is treating doubt as a virtue, writing the failure conditions into the founding text, and refusing from the first day the three things that ruined every tradition before it: buildings, money, and men who claimed to speak for God.
+Very little here is new. Its moral vocabulary and most of its practices have ancestors. What this document adds is a particular arrangement: doubt treated as a duty; claims sorted by the kind of confidence they deserve; a repeatable table practice; explicit safeguarding; open revision and forking; and failure conditions written into the founding text.
 
-If it is any good, the community will form on its own. After that the only work is keeping it from becoming what it was made to avoid.
+The project also refuses, from the beginning, several mechanisms that have repeatedly distorted institutions: permanent spiritual rank, accumulated wealth, coercive certainty, secrecy around serious harm, and obedience to a person.
+
+If it is any good, communities may form around the practice. If they do, the work is not to make the institution immortal. The work is to keep the practice useful, truthful, safe, and free enough that people can leave it, change it, or begin again.
+
+## Appendix A: optional contemplative practices
+
+This appendix is **not required doctrine**. It contains practices that use stronger working assumptions about consciousness than the foundational sitting does. Their subjective effects may be valuable even when their metaphysical interpretation remains unknown. They may be revised or removed without changing the basic table practice.
+
+### The deeper sitting
+
+This practice is adapted from methods associated with Robert Monroe's work on altered states of consciousness. Whether experiences in such states represent perception beyond the body, internally generated experience, some mixture, or something else is left open.
+
+Lie down or sit somewhere you will not be disturbed for forty-five minutes to an hour. Never do this while driving, operating equipment, supervising a child, or anywhere ordinary attention is required.
+
+1. **The box.** Picture a strong box with a heavy lid. Put into it, one at a time, the worries, obligations, and distractions you are carrying. Close the lid. This is an attentional exercise, not a claim that the concerns cease to exist.
+2. **The tuning.** Breathe slowly and comfortably. On an out-breath, hum a steady tone if that is comfortable and notice the vibration. Repeat until attention settles.
+3. **The working affirmation.** You may use Monroe's phrase "I am more than my physical body" as a hypothesis for the exercise, or write a more neutral sentence such as: *I am willing to examine experience without deciding in advance what it means.*
+4. **The boundary.** Picture a boundary around the body and the space you occupy. Treat it as an image of consent and attention, not as a guaranteed supernatural barrier.
+5. **Body deeply relaxed, mind awake.** Count slowly from one to ten while relaxing the body. Monroe called a related state Focus 10.
+6. **Expansion.** If steady and comfortable, count from ten to twelve and let attention feel wider than the ordinary body map. Monroe called a related state Focus 12. If you carry a question, hold it lightly rather than forcing an answer.
+7. **Return.** Count back toward one, reorient to the room, move the body, open the eyes, and write down what happened before interpretation hardens around it.
+
+Three cautions govern the practice. First, an unusual experience is testimony for the person who has it, not authority over anyone else. Second, subjective vividness does not establish a metaphysical explanation. Third, if the practice becomes frightening, destabilizing, compulsive, or difficult to distinguish from ordinary waking reality afterward, stop using it and seek appropriate support rather than treating distress as spiritual advancement.
+
+William James's useful standard applies: judge an experience in part by its fruits in ordinary life. Does it make a person more honest, less cruel, more attentive, and more capable of repair? If not, intensity alone gives it no standing.
+
+## Appendix B: altered states and psychoactive substances
+
+This appendix states a philosophical position, not instructions for taking a drug.
+
+People have reported spiritually significant experiences through psilocybin, peyote, ayahuasca, DMT, and other psychoactive substances, and some religious communities have used psychoactive sacraments inside long-standing ritual traditions. Such experiences can be profound. Profundity does not by itself establish that the interpretation attached to the experience is true.
+
+No one at a table is ever pressured to use a substance, supply one, sell one, procure one, or treat abstention as spiritual deficiency. The ordinary sitting is sufficient for full participation in the practice.
+
+Medical evidence, contraindications, medication interactions, legal access, and professional standards change faster than this foundational document should. For that reason this text does not provide dosing, screening criteria, acquisition advice, or a protocol for use. Anyone considering a psychoactive substance should rely on current medical, legal, and harm-reduction guidance appropriate to the substance, their health, and their location.
+
+A table may discuss an experience afterward in the same way it discusses a dream, prayer, meditation, vision, or other powerful event: receive the report without mockery, do not grant it automatic authority, and test its interpretation over time by evidence and by its fruits.
+
+No revelation obtained in an altered state can bind another person, amend the commitments, override safeguarding, excuse harm, create rank, or settle an open metaphysical question for the community.
+
+This appendix should be revisited more often than the foundational sections because research, law, and clinical practice change.
