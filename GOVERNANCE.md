@@ -25,4 +25,6 @@ Named successor:
 
 Active tables: 0
 
-Last updated: 2026-09-29
+## Record history
+
+- 2026-09-29 — Bootstrap governance record created.
