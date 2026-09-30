@@ -1,4 +1,4 @@
-# Foundational Document (0.2.0)
+# Foundational Document (0.2.1)
 
 ## Preface
 
@@ -8,7 +8,7 @@ It is a scaffold for understanding the universe, the human experience, how to li
 
 **License.** The original prose of this text is dedicated to the public domain under CC0. Copy it, translate it, change it, fork it, publish it, or sell copies of it. No attribution is required and none may be demanded. The project itself will never charge for access to the current text. Short quotations, translations, titles, and other third-party material remain subject to whatever rights apply to their sources; the CC0 dedication does not claim rights the project does not own.
 
-**Version.** 0.2.0, 29 September 2026. Versions are numbered major.minor.patch. This stays at 0.x until at least one table has kept the weekly gathering for a full year without a founder present; that is what 1.0 means. Every revision is made in the open with its history preserved. Nothing here is exempt from change except the dissolution clause, which may be strengthened but never weakened.
+**Version.** 0.2.1, 30 September 2026. Versions are numbered major.minor.patch. This stays at 0.x until at least one table has kept the weekly gathering for a full year without a founder present; that is what 1.0 means. Every revision is made in the open with its history preserved. Nothing here is exempt from change except the dissolution clause, which may be strengthened but never weakened.
 
 **Where it lives.** The current text is at anytable.org, and its source and full revision history are in the any-table organization on GitHub. The domain and the organization are the only things the project holds that anyone could own; how they are held is set out under Governance.
 

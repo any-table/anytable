@@ -1,7 +1,7 @@
 # Governance record
 
 This file records the current administrative state of the canonical
-Any Table project. The governing rules themselves are in FOUNDATIONAL.md.
+Any Table project. The governing rules themselves are in `FOUNDATIONAL.md`.
 
 ## Current phase
 

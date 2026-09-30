@@ -2,7 +2,7 @@
 
 Revision is open. Anyone may propose a change to the canonical text. The procedures here are an operational summary of the Governance section in `FOUNDATIONAL.md`; if the two ever conflict, the current tagged version of `FOUNDATIONAL.md` governs the canonical project.
 
-## Contribution terms. 
+## Contribution terms
 
 By submitting original material for inclusion in the canonical project, you agree to dedicate that material to the public domain under CC0 1.0 Universal and represent that you have the right to do so. Material you did not create, including quotations and translations, must be identified and is not included in that dedication.
 
