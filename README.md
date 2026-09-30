@@ -7,10 +7,11 @@ The founding text of a belief system that claims no revelation, owns no building
 - **READING.md**: sources and further reading behind the text, with free editions where useful and available.
 - **CHANGELOG.md**: what changed in each version.
 - **CONTRIBUTING.md**: how revisions are proposed and adopted.
+- **GOVERNANCE.md**: the current governance record: phase, custodians, successor, and active tables.
 - **LICENSE**: the CC0 1.0 Universal legal text.
 - **NOTICE.md**: what the project's CC0 dedication does and does not cover.
 
-The current text is published at [anytable.org](https://anytable.org). The directory of tables lives in its own repository in this organization.
+The current text is published at [anytable.org](https://anytable.org), which shows the newest release tag; changes merged to `main` appear there once they are tagged. The directory of tables lives in its own repository in this organization.
 
 Versions are numbered major.minor.patch. This stays at 0.x until at least one table has kept the weekly gathering for a full year without a founder present. That is what 1.0 means.
 
