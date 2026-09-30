@@ -1,0 +1,37 @@
+# Rebuilds anytable.org when the text changes.
+#
+# Calls the Cloudflare Pages deploy hook for the any-table/site project, which
+# rebuilds the site from the current state of this repository. The hook URL is
+# stored only as the CLOUDFLARE_PAGES_DEPLOY_HOOK repository secret.
+
+name: Rebuild anytable.org
+
+on:
+  push:
+    branches: [main]
+    tags: ['v*']
+  workflow_dispatch:
+
+permissions: {}
+
+concurrency:
+  group: deploy-site
+  cancel-in-progress: true
+
+jobs:
+  trigger:
+    # Forks are welcome, but only the canonical repository publishes anytable.org.
+    if: github.repository == 'any-table/anytable'
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Trigger Cloudflare Pages build
+        env:
+          HOOK: ${{ secrets.CLOUDFLARE_PAGES_DEPLOY_HOOK }}
+        run: |
+          if [ -z "$HOOK" ]; then
+            echo "::error::CLOUDFLARE_PAGES_DEPLOY_HOOK secret is not set."
+            exit 1
+          fi
+          curl --fail --silent --show-error --retry 3 --retry-all-errors -X POST "$HOOK" -o /dev/null
+          echo "Cloudflare Pages build triggered for $GITHUB_SHA."
