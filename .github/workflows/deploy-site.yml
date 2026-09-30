@@ -1,15 +1,19 @@
-# Rebuilds anytable.org when the text changes.
+# Publishes anytable.org when a release is tagged.
+#
+# anytable.org shows the newest release tag (vMAJOR.MINOR.PATCH), not main.
+# Merged changes go live when they are tagged, whether the tag is pushed with
+# git or created with a GitHub release. Pre-release tags such as v1.0.0-rc1 do
+# not publish.
 #
 # Calls the Cloudflare Pages deploy hook for the any-table/site project, which
-# rebuilds the site from the current state of this repository. The hook URL is
-# stored only as the CLOUDFLARE_PAGES_DEPLOY_HOOK repository secret.
+# rebuilds the site from the newest release tag. The hook URL is stored only as
+# the CLOUDFLARE_PAGES_DEPLOY_HOOK repository secret.
 
-name: Rebuild anytable.org
+name: Publish anytable.org
 
 on:
   push:
-    branches: [main]
-    tags: ['v*']
+    tags: ['v[0-9]+.[0-9]+.[0-9]+']
   workflow_dispatch:
 
 permissions: {}
