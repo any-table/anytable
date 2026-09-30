@@ -2,6 +2,16 @@
 
 All changes to the text are recorded here. Versions follow major.minor.patch.
 
+## 0.2.1 (2026-09-30)
+
+A maintenance release. The foundational text is unchanged apart from its version line; this release adds governance and contribution records and changes how the text is published.
+
+- Added `GOVERNANCE.md`, the public record of the project's current administrative state: phase, canonical infrastructure, custodian, named successor, active tables, and record history.
+- Added contribution terms to `CONTRIBUTING.md`: original material submitted for inclusion in the canonical project is dedicated to the public domain under CC0 by its contributor, and material the contributor did not create must be identified.
+- Added `card:start` and `card:end` markers around the card in `CARD.md` and `FOUNDATIONAL.md`. They are HTML comments and do not change the wording.
+- anytable.org now publishes the newest release tag rather than the latest change to `main`, so the site always shows a tagged version.
+- Listed `GOVERNANCE.md` in `README.md` and noted when merged changes appear on anytable.org.
+
 ## 0.2.0 (2026-09-29)
 
 A revision focused on epistemic consistency, safeguarding, governance, and license clarity while preserving the card, commitments, weekly form, and central voice of the first draft.
