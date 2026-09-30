@@ -16,9 +16,11 @@ Bootstrap period
 ## Custody
 
 Current custodian:
+
 - @srichs
 
 Named successor:
+
 - [to be named]
 
 ## Active tables
