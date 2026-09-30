@@ -1,4 +1,4 @@
-# Foundational Document (0.2.1)
+# Foundational Document (0.2.2)
 
 ## Preface
 
@@ -8,7 +8,7 @@ It is a scaffold for understanding the universe, the human experience, how to li
 
 **License.** The original prose of this text is dedicated to the public domain under CC0. Copy it, translate it, change it, fork it, publish it, or sell copies of it. No attribution is required and none may be demanded. The project itself will never charge for access to the current text. Short quotations, translations, titles, and other third-party material remain subject to whatever rights apply to their sources; the CC0 dedication does not claim rights the project does not own.
 
-**Version.** 0.2.1, 30 September 2026. Versions are numbered major.minor.patch. This stays at 0.x until at least one table has kept the weekly gathering for a full year without a founder present; that is what 1.0 means. Every revision is made in the open with its history preserved. Nothing here is exempt from change except the dissolution clause, which may be strengthened but never weakened.
+**Version.** 0.2.2, 30 September 2026. Versions are numbered major.minor.patch. This stays at 0.x until at least one table has kept the weekly gathering for a full year without a founder present; that is what 1.0 means. Every revision is made in the open with its history preserved. Nothing here is exempt from change except the dissolution clause, which may be strengthened but never weakened.
 
 **Where it lives.** The current text is at anytable.org, and its source and full revision history are in the any-table organization on GitHub. The domain and the organization are the only things the project holds that anyone could own; how they are held is set out under Governance.
 
@@ -85,7 +85,7 @@ The Buddha compared a teaching to a raft used for crossing and not carried forev
 
 ### A note on quotations
 
-Sacred and philosophical texts often exist in many editions and translations. In this document, quotation marks indicate a representative English rendering when the wording is stable enough to be useful; otherwise the idea is paraphrased and the source is named. A reference is not a claim that one English translation is uniquely authoritative. Modern copyrighted translations and passages remain the property of their rights holders and are not covered by this document's CC0 dedication.
+Sacred and philosophical texts often exist in many editions and translations. In this document, quotation marks indicate a representative English rendering when the wording is stable enough to be useful; otherwise the idea is paraphrased and the source is named. A reference is not a claim that one English translation is uniquely authoritative. Verse numbering also varies between editions: this document follows common English numbering, so Exodus 22:21 and Ecclesiastes 5:4 are 22:20 and 5:3 in Hebrew Bibles, and Analects 15:23 is 15:24 in some editions. Modern copyrighted translations and passages remain the property of their rights holders and are not covered by this document's CC0 dedication.
 
 ## How claims are held
 
@@ -145,18 +145,18 @@ From the ancestors:
 - "So God created humankind in his own image." (Genesis 1:27)
 - Mishnah Sanhedrin 4:5 compares the destruction or preservation of one human life with the destruction or preservation of a world; manuscripts and translations vary in wording.
 - "O humankind, we created you from a single pair and made you into nations and tribes that you may know one another." (Quran 49:13)
-- "Recognize the whole human race as one." (Guru Gobind Singh, Akal Ustat 85)
-- The Acaranga Sutra grounds non-harm in the recognition that living beings seek life and recoil from injury.
+- "Recognize the whole human race as one." (Guru Gobind Singh, Akal Ustat 85, in the Dasam Granth)
+- The Acaranga Sutra grounds non-harm in the recognition that living beings seek life and recoil from injury. (Acaranga Sutra 1.2.3)
 - "The self is the friend of the self, and the self is the enemy of the self." (Bhagavad Gita 6:5)
-- "The earth is but one country, and mankind its citizens." (Bahá'u'lláh, Gleanings)
+- "The earth is but one country, and mankind its citizens." (Bahá'u'lláh, *Gleanings* CXVII)
 - "Whatever you did for one of the least of these, you did for me." (Matthew 25:40)
-- "Within the four seas, all men are brothers." (Analects 12:5)
+- "Within the four seas, all men are brothers." (Analects 12:5, spoken by Confucius's disciple Zixia)
 - Solzhenitsyn writes in *The Gulag Archipelago* that the line separating good and evil passes through every human heart.
-- "All real living is meeting." (Martin Buber, I and Thou)
+- "All real living is meeting." (Martin Buber, *I and Thou*, Ronald Gregor Smith's translation; Walter Kaufmann renders it "All actual life is encounter")
 - "God saw everything that he had made, and behold, it was very good." (Genesis 1:31)
 - "Eat your bread with joy, and drink your wine with a merry heart." (Ecclesiastes 9:7)
 - "Who has forbidden the adornment of God which He brought forth for His servants, and the good things of provision?" (Quran 7:32)
-- The Buddha nearly starved himself to death in the forest before rejecting the path of self-torment for the middle way. (Mahasaccaka Sutta)
+- The Buddha nearly starved himself to death in the forest before rejecting the path of self-torment for the middle way. (Mahasaccaka Sutta, Majjhima Nikaya 36)
 - Guru Nanak refused renunciation and taught that the householder's life, with work, family, and food, is the full path. (the Sikh householder ideal)
 
 ## What we hold about a life of meaning
@@ -165,7 +165,7 @@ Meaning comes from caring about what deserves care, and acting on it. Wanting th
 
 Viktor Frankl described three broad roads to meaning: creating or doing something; loving a person or encountering something of value; and, when suffering truly cannot be changed, choosing the stance one takes toward it. The third road is not a reason to preserve avoidable suffering. It is a way of refusing to let unavoidable suffering have the final word.
 
-Meaning is more often found through engagement than through self-monitoring. Frankl argued that meaning tends to ensue when a person gives themselves to a task, a person, or a responsibility rather than pursuing the feeling of meaningfulness directly.
+Meaning is more often found through engagement than through self-monitoring. Frankl argued that happiness and success cannot be pursued directly; they ensue as by-products when a person gives themselves to a task, a person, or a responsibility. Meaning, for him, is found in that giving rather than manufactured by seeking it.
 
 Meaning does not need the universe to underwrite it. If the universe has no purpose, your love for your children is still real. Mattering happens at the scale of a life, and it is no less real for being local.
 
@@ -178,15 +178,15 @@ From the ancestors:
 - "You have a right to your actions, but never to the fruits of your actions." (Bhagavad Gita 2:47)
 - "What does the Lord require of you but to do justice, to love kindness, and to walk humbly with your God?" (Micah 6:8)
 - "Love the Lord your God with all your heart, and love your neighbor as yourself. On these hang all the law and the prophets." (Matthew 22:37-40)
-- "Truth is high, but higher still is truthful living." (Guru Nanak, Guru Granth Sahib 62)
-- "Good thoughts, good words, good deeds." (the threefold path of Zoroaster)
+- "Truth is high, but higher still is truthful living." (Guru Nanak, Guru Granth Sahib, Ang 62)
+- "Good thoughts, good words, good deeds." (*humata, hukhta, hvarshta*, the Zoroastrian threefold path; the triad is found in the Avestan liturgy, for example Yasna 35.2, rather than in Zoroaster's Gathas)
 - "Whoever loses their life for my sake will find it." (Matthew 16:25)
 - Analects 4:16 contrasts the exemplary person, who understands what is right, with the small person, who understands advantage or profit; wording varies by translation.
 - "Be doers of the word, and not hearers only." (James 1:22)
 - "Strive on with diligence." (the Buddha's last words, Mahaparinibbana Sutta)
 - "I have set before you life and death; therefore choose life." (Deuteronomy 30:19)
 - "Of all the things wisdom provides for a happy life, the greatest is friendship." (Epicurus, Principal Doctrines 27)
-- "He who has a why to live for can bear almost any how." (Nietzsche, the line Frankl built his work around)
+- "He who has a why to live for can bear almost any how." (Nietzsche, *Twilight of the Idols*, "Maxims and Arrows" 12, in the wording Frankl quotes)
 - Frankl's reversal: stop asking what life means, and recognize that life is asking you, and that you answer with how you live. (Man's Search for Meaning)
 - Frankl's rule for any decision: live as though you were living for the second time, and had acted wrongly the first time in exactly the way you are about to act now. (Man's Search for Meaning)
 - Camus's doctor in The Plague, who keeps treating the dying with no God and no guarantee, because it is his work and they are there.
@@ -235,10 +235,10 @@ Non-cruelty is not passivity. Where someone is doing serious harm and will not s
 
 - "What is hateful to you, do not do to your fellow. That is the whole Torah; the rest is commentary." (Hillel, Shabbat 31a)
 - "Do not impose on others what you do not wish for yourself." (Analects 15:23)
-- "One should never do to another what one regards as injurious to oneself. This, in brief, is the rule of righteousness." (Mahabharata, Anushasana Parva 113)
-- "Hurt not others in ways that you yourself would find hurtful." (Udanavarga 5:18; Dhammapada 129-130 in the Pali)
-- "None of you truly believes until he wishes for his brother what he wishes for himself." (hadith, Bukhari)
-- "Non-violence is the highest duty." (Mahavira)
+- "One should never do to another what one regards as injurious to oneself. This, in brief, is the rule of righteousness." (Mahabharata, Anushasana Parva, section 113 in Ganguli's translation; 13.114.8 in the critical edition)
+- Dhammapada 129-130: all tremble at violence and fear death, and life is dear to all; putting oneself in another's place, one should neither kill nor cause another to kill. The related line "Hurt not others in ways that you yourself would find hurtful" is commonly cited as Udanavarga 5:18; that verse attribution is uncertain.
+- "None of you truly believes until he wishes for his brother what he wishes for himself." (hadith, Sahih al-Bukhari 13)
+- *Ahimsa paramo dharmah*, "non-violence is the highest duty." (a recurring formula of the Mahabharata, later adopted as a Jain watchword; for Mahavira's own teaching on non-harm, see Acaranga Sutra 1.4.1)
 - "Fight in the way of God those who fight you, but do not transgress; God does not love transgressors." (Quran 2:190)
 - "A time for war, and a time for peace." (Ecclesiastes 3:8)
 - "Do not resist an evildoer; if anyone strikes you on the right cheek, turn the other also." (Matthew 5:39)
@@ -271,7 +271,7 @@ Be where you are. Most harm and most missed good come from not looking.
 - "Attention is the rarest and purest form of generosity." (Simone Weil, letter to Joë Bousquet, 13 April 1942)
 - Wash the dishes in order to wash the dishes, not in order to be finished with them. (Thich Nhat Hanh, The Miracle of Mindfulness)
 - Radical amazement, the capacity to be astonished by the ordinary, is the root of the spiritual life. (Abraham Joshua Heschel, God in Search of Man)
-- Dogen's instructions to the monastery cook: handle the rice as you would your own eyes, because the cooking is the practice and not a break from it. (Tenzo Kyokun)
+- Dogen's instructions to the monastery cook: care for the rice, vegetables, and other ingredients as you would the pupils of your own eyes, because the cooking is the practice and not a break from it. Dogen is here quoting the Chan master Baoning Renyong. (Tenzo Kyokun)
 
 ### 6. Stewardship
 
@@ -280,9 +280,9 @@ The world was here before you and will continue after you. Leave what is in your
 Stewardship includes what you own. Hold possessions lightly enough that losing them would not end you, and take no more than you can use well while others lack. This is not a vow of poverty; it is a refusal to be owned by things. The Quakers called it simplicity, and many traditions have developed related disciplines.
 
 - "The Lord God took the man and put him in the garden to tend it and keep it." (Genesis 2:15)
-- "It is He who has made you stewards of the earth." (Quran 6:165)
+- "It is He who has made you stewards of the earth." (Quran 6:165; *khala'if* is more literally "successors" or "vicegerents," and "stewards" is an interpretive rendering)
 - "If the Hour comes while you have a seedling in your hand, plant it." (hadith, Musnad Ahmad)
-- The Haudenosaunee principle that every decision be weighed by its effect on the seventh generation to come. (from the Great Law of Peace, as commonly rendered)
+- The Haudenosaunee principle that every decision be weighed by its effect on the seventh generation to come. (a principle associated with the Great Law of Peace; the familiar wording is modern and does not appear verbatim in the Great Law)
 - Look closely at a sheet of paper and you can see the cloud that watered the tree it came from. Nothing exists by itself. (Thich Nhat Hanh on interbeing, The Heart of Understanding)
 - "Do not store up for yourselves treasures on earth, where moth and rust consume." (Matthew 6:19)
 - "Competition for more distracts you until you visit the graves." (Quran 102:1-2)
@@ -322,8 +322,8 @@ The ancestors repeatedly made room for examination:
 - "Hear with your ears the best things; consider with a clear mind; and each one for himself choose." (Zoroaster, Yasna 30:2)
 - "Test everything; hold fast what is good." (1 Thessalonians 5:21)
 - "There is no compulsion in religion." (Quran 2:256)
-- The independent investigation of truth, the first principle of Bahá'u'lláh.
-- "The unexamined life is not worth living." (Socrates, whom we count an ancestor though he founded no religion)
+- The independent investigation of truth, the first of the Bahá'í principles as 'Abdu'l-Bahá set them out in his talks in the West, drawing on the writings of Bahá'u'lláh. (*Paris Talks*)
+- "The unexamined life is not worth living." (Socrates, in Plato's *Apology* 38a; we count him an ancestor though he founded no religion)
 
 ## On community
 
@@ -342,15 +342,15 @@ With no steeple to walk toward, people find each other through a directory: an o
 From the ancestors:
 
 - "Where two or three are gathered in my name, there am I among them." (Matthew 18:20)
-- "The whole earth has been made a place of prayer for me." (hadith, Bukhari)
+- "The whole earth has been made a place of prayer for me." (hadith, Sahih al-Bukhari 335)
 - "Wherever you turn, there is the face of God." (Quran 2:115)
 - "The hour is coming when you will worship the Father neither on this mountain nor in Jerusalem." (John 4:21)
 - "The God who made the world does not dwell in temples made by hands." (Acts 17:24)
 - "Heaven is my throne and the earth my footstool; what house could you build for me?" (Isaiah 66:1)
-- Where do you search for me, friend? I am beside you. Not in temple or mosque, not in Kaaba or Kailash. (Kabir)
+- Where do you search for me, friend? I am beside you. Not in temple or mosque, not in Kaaba or Kailash. (Kabir, in Rabindranath Tagore's *Songs of Kabir*, 1915; the collection Tagore worked from is of disputed authenticity)
 - George Fox called church buildings steeple-houses and insisted the church was the people gathered, wherever they stood. (Journal of George Fox)
 - After the destruction of the Second Temple, Jewish religious life increasingly centered study, prayer, household practice, and local assembly rather than sacrifice at one sanctuary. That portability is part of the model we learn from.
-- "Wherever the Sikhs gather in the name of the Guru, there the Guru is present." (the principle of the sangat)
+- Sikh tradition holds that the Guru is present in the sangat, the community gathered in the Guru's name. (the principle of the sangat)
 
 ## On harm within
 
@@ -378,7 +378,7 @@ From the ancestors:
 
 ## The practices
 
-Belief without practice does not hold, and a vague practice tends to depend on a building or leader to hold it together. These forms are precise so they can be carried in the head and run anywhere by anyone. Aristotle gave one reason practice comes first: character is formed by repeated action.
+Belief without practice does not hold, and a vague practice tends to depend on a building or leader to hold it together. These forms are precise so they can be carried in the head and run anywhere by anyone. Aristotle gave one reason practice comes first: character is formed by repeated action (*Nicomachean Ethics* II.1).
 
 ### Daily: the sitting
 
@@ -480,8 +480,8 @@ From the ancestors:
 - "To you your religion, and to me mine." (Quran 109:6)
 - John 14:2 uses the image of many dwelling places in the Father's house.
 - "Whoever is not against us is for us." (Mark 9:40)
-- Rumi, *Masnavi* III:1255, uses the image of changing lamps and a light that is not changed; popular English versions vary and should not be made to carry more doctrinal weight than the passage supports.
-- Guru Nanak's remembered declaration "There is no Hindu, there is no Muslim" is traditionally read as a challenge to religious boundary-making rather than a denial that communities exist.
+- Rumi, *Masnavi* I:678-683 (Nicholson's numbering), observes that when ten lamps burn in one place, each differs in form, yet their light cannot be told apart once you turn your face toward it; in things of the spirit, he says, there is no division and no number. The popular line "The lamps are different, but the Light is the same" is a modern paraphrase, not Nicholson's translation, and neither should be made to carry more doctrinal weight than the passage supports.
+- Guru Nanak's remembered declaration "There is no Hindu, there is no Muslim," recorded in the Janamsakhis (the traditional accounts of his life) rather than in scripture, is traditionally read as a challenge to religious boundary-making rather than a denial that communities exist.
 
 ## Governance
 
@@ -511,7 +511,7 @@ Anyone may propose a revision publicly.
 
 An ordinary substantive revision remains open for comment for at least thirty days. Each active table may record one of three positions: accept, reject, or no position. A revision is adopted into the canonical text when at least half of the active tables participate and two-thirds of the participating tables accept it.
 
-Changes to the governance safeguards — no clergy, no treasury, no coercive agenda, open forking, open revision history, and the independence of tables — require approval from three-quarters of all active tables, not merely those responding.
+Changes to the governance safeguards (no clergy, no treasury, no coercive agenda, open forking, open revision history, and the independence of tables) require approval from three-quarters of all active tables, not merely those responding.
 
 The dissolution clause may be strengthened but never weakened.
 
@@ -529,7 +529,7 @@ Custodians can administer infrastructure and apply decisions made under this sec
 
 No collection is taken and no treasury is accumulated. No one is paid for spiritual status, teaching, membership, access, governance votes, or participation.
 
-Where a practical project cost exists — a domain renewal, hosting bill, room rental, or meal — participants may share the immediate cost transparently. If the project ever becomes large enough that recurring infrastructure cannot responsibly be handled this way, the governance text must be revised openly before any fund or legal entity is created. No such entity may become a source of spiritual authority.
+Where a practical project cost exists, such as a domain renewal, hosting bill, room rental, or meal, participants may share the immediate cost transparently. If the project ever becomes large enough that recurring infrastructure cannot responsibly be handled this way, the governance text must be revised openly before any fund or legal entity is created. No such entity may become a source of spiritual authority.
 
 ### No clergy
 

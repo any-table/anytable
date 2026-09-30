@@ -3,7 +3,7 @@
 The founding text of a belief system that claims no revelation, owns no buildings, takes no collection, and belongs to no one.
 
 - **CARD.md**: the whole thing on one page. Start here.
-- **FOUNDATIONAL.md**: the full text, version 0.2.1.
+- **FOUNDATIONAL.md**: the full text, version 0.2.2.
 - **READING.md**: sources and further reading behind the text, with free editions where useful and available.
 - **CHANGELOG.md**: what changed in each version.
 - **CONTRIBUTING.md**: how revisions are proposed and adopted.

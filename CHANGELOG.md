@@ -2,6 +2,26 @@
 
 All changes to the text are recorded here. Versions follow major.minor.patch.
 
+## 0.2.2 (2026-09-30)
+
+A source-correction release. The meaning of the text is unchanged; these are corrections to citations and attributions, which `CONTRIBUTING.md` allows to be made immediately.
+
+- Rumi: the lamps passage is *Masnavi* I:678-683 (Nicholson's numbering), not III:1255. The popular English line "the lamps are different, but the Light is the same" is identified as a modern paraphrase, not Nicholson's translation.
+- "Non-violence is the highest duty" is now attributed to the Mahabharata, where the formula *ahimsa paramo dharmah* recurs, rather than to Mahavira. Mahavira's own teaching on non-harm is cited from Acaranga Sutra 1.4.1.
+- Frankl: corrected the claim that meaning "ensues." Frankl said this of happiness and success; meaning, for him, is found in giving oneself to a task, a person, or a responsibility.
+- Nietzsche: added the source (*Twilight of the Idols*, "Maxims and Arrows" 12) and removed the overstatement that Frankl built his work around the line.
+- The independent investigation of truth is now attributed to 'Abdu'l-Bahá's presentation of the Bahá'í principles (*Paris Talks*), drawing on Bahá'u'lláh's writings.
+- The sangat line is now a teaching of the Sikh tradition in paraphrase rather than a quotation.
+- The golden-rule line attributed to Udanavarga 5:18 is marked as uncertain, with the Dhammapada 129-130 parallel given first.
+- Kabir's lines are identified as Tagore's translation (*Songs of Kabir*, 1915), from a collection of disputed authenticity.
+- Tightened the notes on the Haudenosaunee seventh-generation principle, Dogen (all the ingredients, and his quotation of Baoning Renyong), Buber (Smith's translation named, with Kaufmann's rendering), the Zoroastrian triad (Avestan liturgy, not the Gathas), Analects 12:5 (spoken by Zixia), and Quran 6:165 ("stewards" as an interpretive rendering).
+- Added missing locators: Sahih al-Bukhari 13 and 335, Majjhima Nikaya 36, Acaranga Sutra 1.2.3, Mahabharata critical edition 13.114.8, *Gleanings* CXVII, *Apology* 38a, *Nicomachean Ethics* II.1, Guru Granth Sahib Ang 62, the Dasam Granth for Akal Ustat, and the Janamsakhis as the source of Guru Nanak's declaration.
+- Added a note on verse numbering differences between Hebrew and English Bibles and between editions of the Analects.
+- Replaced two em dashes in the governance section with ordinary punctuation.
+- `READING.md` now links directly to free, lawful editions for nearly every citation, carries the same corrections, and points readers to public libraries for works still under copyright.
+- Added a link-checking workflow that runs on pull requests touching Markdown, weekly, and on demand. sacred-texts.com is excluded from automated checks because its server mishandles HTTP/2; those links are checked by hand.
+- Corrected the seedling hadith reference to Musnad Ahmad 12902 and removed the slow epicurus.net links in favor of Wikisource.
+
 ## 0.2.1 (2026-09-30)
 
 A maintenance release. The foundational text is unchanged apart from its version line; this release adds governance and contribution records and changes how the text is published.
