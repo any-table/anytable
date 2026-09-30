@@ -1,0 +1,39 @@
+# Checks every link in the Markdown files.
+#
+# Runs on pull requests that touch Markdown, weekly, and on demand. It never
+# publishes anything and never blocks a release tag; a broken link is fixed by
+# a pull request, which CONTRIBUTING.md treats as a source correction.
+#
+# Some scripture and library sites refuse automated requests (403) or rate-limit
+# them (429). Those are accepted so that a site's bot policy is not reported as a
+# dead link; a real 404 still fails the check.
+
+name: Check links
+
+on:
+  pull_request:
+    paths: ['**/*.md']
+  schedule:
+    - cron: '17 6 * * 1'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  lychee:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v7
+      - name: Check links
+        uses: lycheeverse/lychee-action@v2
+        with:
+          args: >-
+            --no-progress
+            --max-concurrency 4
+            --retry-wait-time 5
+            --max-retries 3
+            --accept '200..=299, 403, 429'
+            './**/*.md'
+          fail: true

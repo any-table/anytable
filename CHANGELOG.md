@@ -4,18 +4,22 @@ All changes to the text are recorded here. Versions follow major.minor.patch.
 
 ## 0.2.2 (2026-09-30)
 
-Source corrections. None changes the meaning of a tenet or practice; each makes a citation accurate or states its uncertainty in the text rather than only in `READING.md`.
+A source-correction release. The meaning of the text is unchanged; these are corrections to citations and attributions, which `CONTRIBUTING.md` allows to be made immediately.
 
-- Rumi: corrected the lamps passage from *Masnavi* III:1255 to I:678-683 (Nicholson's numbering), and noted that the popular "the lamps are different, but the Light is the same" is a modern paraphrase, not Nicholson's translation.
-- "Non-violence is the highest duty": attributed to the Mahabharata (*ahimsa paramo dharmah*, later a Jain watchword) instead of Mahavira, and added a Jain source, Acaranga Sutra 1.4.1.
-- Frankl: it is happiness and success, not meaning, that he said cannot be pursued and must ensue; meaning is found in giving oneself to a task or person.
-- Nietzsche: cited *Twilight of the Idols*, "Maxims and Arrows" 12, and removed the overstatement that Frankl built his work around the line.
-- Bahá'í principles: the independent investigation of truth is first in 'Abdu'l-Bahá's presentation of the principles, drawing on Bahá'u'lláh.
-- The sangat: removed quotation marks from a line that is a teaching of the Sikh tradition, not a traceable verse.
-- Flagged uncertainty in the text itself: the Udanavarga 5:18 attribution (the document now leads with Dhammapada 129-130), Tagore's Kabir source collection, and the seventh-generation wording as a later formulation associated with the Great Law of Peace.
-- Precision: Guru Granth Sahib Ang 62; the speaker of Analects 12:5 (Zixia); "stewards" in Quran 6:165 marked as interpretive; the Zoroastrian triad located in the Avestan liturgy (Yasna 35.2) rather than the Gathas; Buber quoted in Kaufmann's translation to match the reading list; Dogen's instruction covers all the ingredients and quotes Baoning Renyong.
-- Added a note on verse numbering (Hebrew Bible and Analects variants) and missing locators: Sahih al-Bukhari 13, Majjhima Nikaya 36, Acaranga Sutra 1.2.3, Mahabharata critical edition 13.114.8, Plato's *Apology* 38a, *Nicomachean Ethics* II.1, Gleanings CXVII, and the Janamsakhis as the source of "no Hindu, no Muslim."
-- Updated `READING.md` to match.
+- Rumi: the lamps passage is *Masnavi* I:678-683 (Nicholson's numbering), not III:1255. The popular English line "the lamps are different, but the Light is the same" is identified as a modern paraphrase, not Nicholson's translation.
+- "Non-violence is the highest duty" is now attributed to the Mahabharata, where the formula *ahimsa paramo dharmah* recurs, rather than to Mahavira. Mahavira's own teaching on non-harm is cited from Acaranga Sutra 1.4.1.
+- Frankl: corrected the claim that meaning "ensues." Frankl said this of happiness and success; meaning, for him, is found in giving oneself to a task, a person, or a responsibility.
+- Nietzsche: added the source (*Twilight of the Idols*, "Maxims and Arrows" 12) and removed the overstatement that Frankl built his work around the line.
+- The independent investigation of truth is now attributed to 'Abdu'l-Bahá's presentation of the Bahá'í principles (*Paris Talks*), drawing on Bahá'u'lláh's writings.
+- The sangat line is now a teaching of the Sikh tradition in paraphrase rather than a quotation.
+- The golden-rule line attributed to Udanavarga 5:18 is marked as uncertain, with the Dhammapada 129-130 parallel given first.
+- Kabir's lines are identified as Tagore's translation (*Songs of Kabir*, 1915), from a collection of disputed authenticity.
+- Tightened the notes on the Haudenosaunee seventh-generation principle, Dogen (all the ingredients, and his quotation of Baoning Renyong), Buber (Smith's translation named, with Kaufmann's rendering), the Zoroastrian triad (Avestan liturgy, not the Gathas), Analects 12:5 (spoken by Zixia), and Quran 6:165 ("stewards" as an interpretive rendering).
+- Added missing locators: Sahih al-Bukhari 13 and 335, Majjhima Nikaya 36, Acaranga Sutra 1.2.3, Mahabharata critical edition 13.114.8, *Gleanings* CXVII, *Apology* 38a, *Nicomachean Ethics* II.1, Guru Granth Sahib Ang 62, the Dasam Granth for Akal Ustat, and the Janamsakhis as the source of Guru Nanak's declaration.
+- Added a note on verse numbering differences between Hebrew and English Bibles and between editions of the Analects.
+- Replaced two em dashes in the governance section with ordinary punctuation.
+- `READING.md` now links directly to free, lawful editions for nearly every citation, carries the same corrections, and points readers to public libraries for works still under copyright.
+- Added a link-checking workflow that runs on pull requests touching Markdown, weekly, and on demand.
 
 ## 0.2.1 (2026-09-30)
 
