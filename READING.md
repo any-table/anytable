@@ -50,7 +50,7 @@ All links are to the King James Version on Bible Gateway.
 
 - **Quran** [2:115](https://quran.com/2/115), [2:155-156](https://quran.com/2/155-156), [2:174](https://quran.com/2/174), [2:190](https://quran.com/2/190), [2:256](https://quran.com/2/256), [3:185](https://quran.com/3/185), [4:135](https://quran.com/4/135), [6:165](https://quran.com/6/165), [7:32](https://quran.com/7/32), [14:7](https://quran.com/14/7), [17:34](https://quran.com/17/34), [17:85](https://quran.com/17/85), [24:22](https://quran.com/24/22), [47:19](https://quran.com/47/19), [49:6](https://quran.com/49/6), [49:13](https://quran.com/49/13), [55:26-27](https://quran.com/55/26-27), [102:1-2](https://quran.com/102/1-2), [107:1-3](https://quran.com/107/1-3), [109:6](https://quran.com/109/6).
   At 6:165, *khala'if* is more literally "successors" or "vicegerents"; "stewards" is interpretive. Modern: M. A. S. Abdel Haleem's translation (Oxford World's Classics) is the clearest in English.
-- **Hadith.** None of you believes until he wishes for his brother what he wishes for himself: [Sahih al-Bukhari 13](https://sunnah.com/bukhari:13). The whole earth made a place of prayer: [Sahih al-Bukhari 335](https://sunnah.com/bukhari:335). The seedling at the Hour: Musnad Ahmad, also in al-Bukhari's [al-Adab al-Mufrad 479](https://sunnah.com/adab:479). The best of people are those most beneficial to people: al-Tabarani, al-Mu'jam al-Awsat (not on sunnah.com; widely cited and graded *hasan* by several scholars).
+- **Hadith.** None of you believes until he wishes for his brother what he wishes for himself: [Sahih al-Bukhari 13](https://sunnah.com/bukhari:13). The whole earth made a place of prayer: [Sahih al-Bukhari 335](https://sunnah.com/bukhari:335). The seedling at the Hour: [Musnad Ahmad 12902](https://hadithunlocked.com/ahmad:12902), also transmitted in al-Bukhari's *al-Adab al-Mufrad*. The best of people are those most beneficial to people: al-Tabarani, al-Mu'jam al-Awsat (not on sunnah.com; widely cited and graded *hasan* by several scholars).
 
 ## Hindu texts and the epics
 
@@ -124,7 +124,7 @@ All links are to the King James Version on Bible Gateway.
 - **Aristotle**, *Nicomachean Ethics* II.1 (virtue as habit; one becomes just by doing just acts).
   Free: [W. D. Ross's translation, Book II](http://classics.mit.edu/Aristotle/nicomachaen.2.ii.html), at the MIT Internet Classics Archive, or [D. P. Chase's](https://www.gutenberg.org/ebooks/8438) at Project Gutenberg. Modern: Terence Irwin (Hackett).
 - **Epicurus**, *Letter to Menoeceus* (death is nothing to us) and *Principal Doctrines* 27 (friendship).
-  Free: [the Letter to Menoeceus](https://www.epicurus.net/en/menoeceus.html) and [the Principal Doctrines](https://www.epicurus.net/en/principal.html) at epicurus.net, or R. D. Hicks's translation in [Diogenes Laertius, Book X](https://en.wikisource.org/wiki/Lives_of_the_Eminent_Philosophers/Book_X), on Wikisource. Modern: *The Epicurus Reader* (Inwood and Gerson, Hackett).
+  Free: R. D. Hicks's translation of both, in [Diogenes Laertius, Book X](https://en.wikisource.org/wiki/Lives_of_the_Eminent_Philosophers/Book_X), on Wikisource. Modern: *The Epicurus Reader* (Inwood and Gerson, Hackett).
 - **Epictetus**, *Enchiridion* 1 and 5.
   Free: [the Enchiridion](http://classics.mit.edu/Epictetus/epicench.html) at the MIT Internet Classics Archive, or [Project Gutenberg #45109](https://www.gutenberg.org/ebooks/45109). Modern: Robin Hard (Oxford World's Classics).
 - **Marcus Aurelius**, *Meditations* 5.20.

@@ -7,6 +7,10 @@
 # Some scripture and library sites refuse automated requests (403) or rate-limit
 # them (429). Those are accepted so that a site's bot policy is not reported as a
 # dead link; a real 404 still fails the check.
+#
+# sacred-texts.com is excluded because its server mishandles HTTP/2, which the
+# checker cannot turn off; the pages load normally in a browser. Links to that
+# site must be checked by hand when they are added or changed.
 
 name: Check links
 
@@ -34,6 +38,8 @@ jobs:
             --max-concurrency 4
             --retry-wait-time 5
             --max-retries 3
+            --timeout 30
+            --exclude 'sacred-texts\.com'
             --accept '200..=299, 403, 429'
             './**/*.md'
           fail: true

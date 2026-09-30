@@ -19,7 +19,8 @@ A source-correction release. The meaning of the text is unchanged; these are cor
 - Added a note on verse numbering differences between Hebrew and English Bibles and between editions of the Analects.
 - Replaced two em dashes in the governance section with ordinary punctuation.
 - `READING.md` now links directly to free, lawful editions for nearly every citation, carries the same corrections, and points readers to public libraries for works still under copyright.
-- Added a link-checking workflow that runs on pull requests touching Markdown, weekly, and on demand.
+- Added a link-checking workflow that runs on pull requests touching Markdown, weekly, and on demand. sacred-texts.com is excluded from automated checks because its server mishandles HTTP/2; those links are checked by hand.
+- Corrected the seedling hadith reference to Musnad Ahmad 12902 and removed the slow epicurus.net links in favor of Wikisource.
 
 ## 0.2.1 (2026-09-30)
 
