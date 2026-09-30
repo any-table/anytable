@@ -67,7 +67,7 @@ Repository governance is public; safeguarding is not a public spectacle.
 
 Do not use issues, pull requests, discussions, or governance votes to publish identifying details of alleged abuse, hard-truth disclosures, medical information, private messages, information about children or vulnerable people, or other material whose publication could cause harm. Follow the safeguarding principles in `FOUNDATIONAL.md`: safety first, appropriate outside authorities or services where required, fact-checking without forced confrontation, and no retaliation for good-faith reporting.
 
-Security incidents and exposed credentials may be handled privately first when necessary to contain harm, with an appropriate public record afterward that does not disclose exploitable details.
+Security incidents and exposed credentials may be handled privately first when necessary to contain harm, with an appropriate public record afterward that does not disclose exploitable details. Report them through GitHub's private vulnerability reporting (the repository's **Security** tab, then **Report a vulnerability**), not in a public issue.
 
 ## The card
 
