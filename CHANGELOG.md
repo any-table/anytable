@@ -2,6 +2,14 @@
 
 All changes to the text are recorded here. Versions follow major.minor.patch.
 
+## 0.2.3 (2026-09-30)
+
+A maintenance release. The foundational text is unchanged apart from its version line.
+
+- `CONTRIBUTING.md` now says how to report a security problem privately: through GitHub's private vulnerability reporting (the repository's **Security** tab, then **Report a vulnerability**), not in a public issue. The organization's security policy covers every repository and anytable.org.
+- Added a document check that runs on pull requests, on `main`, and on release tags. It confirms that `CARD.md` matches the card in `FOUNDATIONAL.md`, that `FOUNDATIONAL.md`, `README.md`, and this changelog name the same version, and that a release tag matches it. It also lints the Markdown files.
+- Added blank lines before the lists in `GOVERNANCE.md`. The record is unchanged.
+
 ## 0.2.2 (2026-09-30)
 
 A source-correction release. The meaning of the text is unchanged; these are corrections to citations and attributions, which `CONTRIBUTING.md` allows to be made immediately.
